@@ -1,0 +1,151 @@
+<!-- Header -->
+<section id="schedule"> </section>
+<section id="schedule">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Schedule</h2>
+        <hr class="star-primary">
+        <!-- <br><br> -->
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Timetable day-by-day -->
+{% for item in site.categories.schedule %}
+  {% if item.color-bg %}
+  <section class="success" id="schedule-color">
+    <div class="container">
+      <div class="col-lg-12 text-center">
+        <h3>{{ item.header }}</h3>
+        <br><br>
+      </div>
+      {% for event in item.combined %}
+      {% if event.session %}
+        <div class="col-lg-12 text-center">
+          <br><br>
+          <h4>{{ event.session }}</h4>
+          <br>
+        </div>
+      {% endif %}
+      <div class="row">
+        <div class="col-lg-2 col-lg-offset-2">
+          <p>
+            {{ event.time }}
+          </p>
+        </div>
+        <div class="col-lg-7">
+          <p>{{ event.descr }}</p>
+        </div>
+        <div class="col-lg-1 text-center">
+          {% if event.registration %}
+            <i class="fa-solid fa-id-badge" style="font-size:24px;color:#ffffff;"></i>
+          {% endif %}
+          {% if event.poster %}
+            <i class="fa-solid fa-file" style="font-size:24px;color:#ffffff;"></i>
+          {% endif %}
+          {% if event.coffee-break %}
+            <i class="fa-solid fa-mug-hot" style="font-size:24px;color:#ffffff;"></i>
+          {% endif %}
+          {% if event.lunch-break %}
+            <i class="fa-solid fa-utensils" style="font-size:24px;color:#ffffff;"></i>
+          {% endif %}
+          {% if event.talk %}
+            <i class="fa-solid fa-chalkboard-user" style="font-size:24px;color:#ffffff;"></i>
+          {% endif %}
+          {% if event.speedtalk %}
+            <i class="fa-solid fa-bolt" style="font-size:24px;color:#ffffff;"></i>
+          {% endif %}
+          {% if event.keynote %}
+            <i class="fa-solid fa-key" style="font-size:24px;color:#ffffff;"></i>
+          {% endif %}
+          {% if event.comms %}
+            <i class="fa-solid fa-comment" style="font-size:24px;color:#ffffff;"></i>
+          {% endif %}
+          {% if event.tutorial %}
+            <i class="fa-solid fa-hand" style="font-size:24px;color:#ffffff;"></i>
+          {%endif %}
+          {% if event.discussion %}
+            <i class="fa-solid fa-user-group" style="font-size:24px;color:#ffffff;"></i>
+          {%endif %}
+          {% if event.fun %}
+            <i class="fa-solid fa-chess-rook" style="font-size:24px;color:#ffffff;"></i>
+          {%endif %}
+          {% if event.photo %}
+            <i class="fa-solid fa-camera" style="font-size:24px;color:#ffffff;"></i>
+          {%endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% else %}
+  <!-- item with white background -->
+  <section id="schedule">
+    <div class="container">
+      <div class="col-lg-12 text-center">
+        <h3>{{ item.header }}</h3>
+        <br><br>
+      </div>
+      {% for event in item.combined %}
+      {% if event.session %}
+        <div class="col-lg-12 text-center">
+          <br><br>
+          <h4>{{ event.session }}</h4>
+          <br>
+        </div>
+      {% endif %}
+      <div class="row">
+        <div class="col-lg-2 col-lg-offset-2">
+          <p>
+            {{ event.time }}
+          </p>
+        </div>
+        <div class="col-lg-7">
+          <p>{{ event.descr }}</p>
+        </div>
+        <div class="col-lg-1 text-center">
+          {% if event.registration %}
+            <i class="fa-solid fa-id-badge" style="font-size:24px;color:#9969d6;"></i>
+          {% endif %}
+          {% if event.poster %}
+            <i class="fa-solid fa-file" style="font-size:24px;color:#9969d6;"></i>
+          {% endif %}
+          {% if event.coffee-break %}
+            <i class="fa-solid fa-mug-hot" style="font-size:24px;color:#9969d6;"></i>
+          {% endif %}
+          {% if event.lunch-break %}
+            <i class="fa-solid fa-utensils" style="font-size:24px;color:#9969d6;"></i>
+          {% endif %}
+          {% if event.talk %}
+            <i class="fa-solid fa-chalkboard-user" style="font-size:24px;color:#9969d6;"></i>
+          {% endif %}
+          {% if event.speedtalk %}
+            <i class="fa-solid fa-bolt" style="font-size:24px;color:#9969d6;"></i>
+          {% endif %}
+          {% if event.keynote %}
+            <i class="fa-solid fa-key" style="font-size:24px;color:#9969d6;"></i>
+          {% endif %}
+          {% if event.comms %}
+            <i class="fa-solid fa-comment" style="font-size:24px;color:#9969d6;"></i>
+          {% endif %}
+          {% if event.tutorial %}
+            <i class="fa-solid fa-hand" style="font-size:24px;color:#9969d6;"></i>
+          {%endif %}
+          {% if event.discussion %}
+            <i class="fa-solid fa-user-group" style="font-size:24px;color:#9969d6;"></i>
+          {%endif %}
+          {% if event.fun %}
+            <i class="fa-solid fa-chess-rook" style="font-size:24px;color:#9969d6;"></i>
+          {%endif %}
+          {% if event.photo %}
+            <i class="fa-solid fa-camera" style="font-size:24px;color:#9969d6;"></i>
+          {%endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+{% endfor %}
