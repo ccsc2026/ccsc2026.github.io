@@ -1,10 +1,10 @@
 # Site settings
-title: CCSC 2024
+title: CCSC 2026
 email: chemcompspace@gmail.com
-url: https://ccsc2024.github.io/
-description: "Chemical Compound Space Conference 2024"
+url: https://ccsc2026.github.io/
+description: "Chemical Compound Space Conference 2026"
         
-keywords: "• Heidelberg • May, 21<sup>st</sup> to 24<sup>th</sup> • Germany •" 
+keywords: "• Erlangen • March, 10<sup>th</sup> to 13<sup>th</sup> • Germany •" 
 meta_author: Carolin Müller
 
 # Google webmaster tools
@@ -39,20 +39,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: ERC
-    url: ERC_logo.png
-  - title: ERC
-    url: ERC_ori.png
-  - title: PCCP
-    url: PCCP Journal-Promo-82x25-whiteout.png # logo_placeholder_small.png
-  - title: Wiley
-    url: Wiley-Led-VCH-Logo-horiz.png
-  - title: DD
-    url: DD_logo.png
-  - title: MLST
-    url: MLST_Logo.jpg
-  - title: Merck
-    url: MDG_Logo_VGreen_RGB_with_clearspace.png
+  - title: FAU
+    url: FAU_logo.png
              
 # 'The conference is supported by <b>ERC 772834</b> (QML: Quantum Machine Learning: Chemical Reactions with Unprecedented Speed and Accuracy).'
 
@@ -64,7 +52,7 @@ address:
   # - line: Address Line 2
 
 # Credits content
-credits: <img src="https://raw.githubusercontent.com/ccsc2024/ccsc2024.github.io/main/img/sponsors/TUBerlin.png" width="100" alt="TUBerlin" /><br> <img src="https://raw.githubusercontent.com/ccsc2024/ccsc2024.github.io/main/img/ccsc2024_mini-logo.png" width="100" alt="mini-logo" />
+credits: <img src="https://raw.githubusercontent.com/ccsc2024/ccsc2024.github.io/main/img/ccsc2024_mini-logo.png" width="100" alt="mini-logo" />
 #credits: <img src="https://raw.githubusercontent.com/ccsc2024/ccsc2024.github.io/main/img/ccsc2024_mini-logo.png" width="100" alt="mini-logo" />
 #'Powered by Jekyll.<br> <a href="/impressum/" class="btn btn-lg btn-outline">Impressum</a>' # add impressum as link
 
