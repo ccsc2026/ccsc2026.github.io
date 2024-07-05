@@ -1,0 +1,68 @@
+---
+layout: page
+---
+
+<section id="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Poster Session</h2>
+        <hr class="star-primary">
+        <br>
+        <p>
+          The poster presentations are divided into two sessions: posters with <b>even numbers</b> will be presented on Tuesday, May 21, and posters with <b>odd numbers</b> will be presented on Wednesday, May 22.
+          The presentation of posters and digital demonstrations takes place on May 21 and 22 from 7:00 to 9:00 pm.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class='success' id="posters">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h3>Posters</h3>
+        <hr class="star-light">
+        <br>
+      </div>
+    </div>
+    <div class='row'>
+      {% for abstract in site.categories.poster %}
+        <div class="col-lg-2 col-lg-offset-2">
+          <p>{{ abstract.posternumber }}</p>
+        </div>
+        <div class="col-lg-6">
+          <p><a href="https://ccsc2024.github.io/{{ abstract.link }}" target="_blank" style="font-size:20px;color:#ffffff;">
+                <b>{{ abstract.speaker }}</b>, {{ abstract.location }}</a>
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section id="digi-demos">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h3>Digital Demonstrations</h3>
+        <hr class="star-primary">
+        <br>
+      </div>
+    </div>
+    <div class='row'>
+      {% for demo in site.categories.digidemo %}
+        <div class="col-lg-2 col-lg-offset-2">
+            <p>{{ demo.posternumber }}</p>
+          </div>
+          <div class="col-lg-6">
+            <p><a href="https://ccsc2024.github.io/{{ demo.link }}" target="_blank" style="font-size:20px;color:#3f0a74;">
+                  <b>{{ demo.speaker }}</b>, {{ demo.location }}</a>
+            </p>
+          </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
