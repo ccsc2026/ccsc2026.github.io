@@ -92,51 +92,53 @@ layout: page
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Styled Table</title>
     <style>
-	.table-container {
+        .table-container {
             display: flex;
             justify-content: center;
             margin-top: 50px; /* Adjust the spacing as needed */
         }
-	table {
-        width: 50%;
-        border-collapse: collapse;
-	table-layout: fixed;
-	margin: 20px 0;
-        font-size: 18px;
-        text-align: left;
+        table {
+            width: 50%; /* Adjust width as needed */
+            border-collapse: collapse;
+            table-layout: fixed;
+            margin: 20px 0;
+            font-size: 18px;
+            text-align: left;
         }
         th, td {
             border: 1px solid black;
             padding: 8px;
         }
         th {
-            background-color: #8e7cc3;
+            background-color: #8e7cc3; /* Header background color */
         }
     </style>
 </head>
 <body>
 
-<table>
-  <thead>
-    <tr>
-      <th>Franconian</th>
-      <th>Asian</th>
-      <th>Italian</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Inhalt</td>
-      <td>Inhalt</td>
-      <td>Inhalt</td>
-    </tr>
-    <tr>
-      <td>Inhalt</td>
-      <td>Inhalt</td>
-      <td>Inhalt</td>
-    </tr>
-  </tbody>
-</table>
+<div class="table-container">
+    <table>
+      <thead>
+        <tr>
+          <th>Franconian</th>
+          <th>Asian</th>
+          <th>Italian</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Inhalt</td>
+          <td>Inhalt</td>
+          <td>Inhalt</td>
+        </tr>
+        <tr>
+          <td>Inhalt</td>
+          <td>Inhalt</td>
+          <td>Inhalt</td>
+        </tr>
+      </tbody>
+    </table>
+</div>
 
 </body>
 </html>
