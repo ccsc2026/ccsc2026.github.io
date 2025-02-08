@@ -86,62 +86,73 @@ layout: page
           Since there are no restaurants nearby the South-Campus, for lunch we would recommend dining at the University cafeteria. For dinner you can go to various restaurants located at the main city, not far away from the accommodations.
           Here is a quick overview of some bars, restaurants, and cafes:
         </p>
-        
-        <!-- Table Container -->
-        <div class="table-container">
-            <table>
-                <thead>
-                    <tr>
-                        <th>Franconian</th>
-                        <th>Asian</th>
-                        <th>Italian</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>Inhalt 1</td>
-                        <td>Inhalt 2</td>
-                        <td>Inhalt 3</td>
-                    </tr>
-                    <tr>
-                        <td>Inhalt 4</td>
-                        <td>Inhalt 5</td>
-                        <td>Inhalt 6</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        
-        <style>
-            .table-container {
-                display: flex;
-                justify-content: center;
-                margin-top: 50px; /* Adjust the spacing as needed */
-            }
-            table {
-                width: 50%; /* Adjust width as needed */
-                border-collapse: separate; /* Set to separate for borders to show correctly */
-                border-spacing: 0; /* No extra spacing between borders */
-                margin: 20px 0;
-                font-size: 18px;
-                text-align: left; /* Left-align for cells, overridden for headers */
-            }
-            th, td {
-                border: 2px solid #000000; /* Corrected border definition */
-                padding: 8px; /* Space inside cells */
-            }
-            th {
-                background-color: #6d5f97; /* Header background color */
-                text-align: center; /* Center the header text */
-            }
-            td {
-                background-color: #8e7cc3; /* Data cell background color */
-                text-align: center; /* Center the text in data cells */
-            }
-        </style>
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Table</title>
+    <style>
+        .table-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 50px; /* Adjust the spacing as needed */
+        }
+        table {
+            width: 50%; /* Adjust width as needed */
+            border-collapse: seperate; /* Collapse borders */
+	    border-spacing: 0;
+	    table-layout: fixed;
+            margin: 20px 0;
+            font-size: 18px;
+            text-align: left; /* Left-align for cells, overridden for headers */
+        }
+        th, td {
+            border: 20px #000000; /* Set border color to white */
+            padding: 8px;
+        }
+        th {
+            background-color: #472c97;
+            text-align: center; /* Center the header text */
+        }
+        td {
+	background-color: #8e7cc3;
+	text-align: center;
+        }
+    </style>
+</head>
+<body>
 
+<!-- Table is wrapped in a container for centering -->
+<div class="table-container">
+    <table>
+      <thead>
+        <tr>
+          <th>Franconian</th>
+          <th>Asian</th>
+          <th>Italian</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Inhalt</td>
+          <td>Inhalt</td>
+          <td>Inhalt</td>
+        </tr>
+        <tr>
+          <td>Inhalt</td>
+          <td>Inhalt</td>
+          <td>Inhalt</td>
+        </tr>
+      </tbody>
+    </table>
+</div>
+
+</body>
+</html>
+
+        </p>
       </div>
     </div>
   </div>
 </section>
-
