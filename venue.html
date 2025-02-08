@@ -99,27 +99,29 @@ layout: page
         }
         table {
             width: 50%; /* Adjust width as needed */
-            border-collapse: collapse;
+            border-collapse: collapse; /* Collapse borders */
             table-layout: fixed;
             margin: 20px 0;
             font-size: 18px;
-            text-align: left;
+            text-align: left; /* Left-align for cells, overridden for headers */
         }
         th, td {
-            border: 20px solid white;
+            border: 2px solid white; /* Set border color to white */
             padding: 8px;
         }
-         th {
+        th {
             background-color: #8e7cc3; /* Header background color */
             text-align: center; /* Center the header text */
         }
         td {
-            text-align: center; /* Keep table data left-aligned */
+            text-align: left; /* Keep table data left-aligned */
+            background-color: #f9f9f9; /* Optional: add a light background for cells */
         }
     </style>
 </head>
 <body>
 
+<!-- Table is wrapped in a container for centering -->
 <div class="table-container">
     <table>
       <thead>
@@ -146,6 +148,7 @@ layout: page
 
 </body>
 </html>
+
         </p>
       </div>
     </div>
