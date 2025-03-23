@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 1
+date: 2020-08-01
+categories: [example, keynote]
+talklink: Cronin
+affiliation: University of Glasgow (UK)
+img: Cronin, Leroy.png
+alt: Cronin, Lee
+title: Prof. Lee Cronin
+linkedin: https://www.linkedin.com/in/leecronin/?originalSubdomain=uk
+twitter: https://x.com/leecronin?lang=en
+web: https://www.gla.ac.uk/schools/chemistry/staff/leecronin/#researchinterests
+researchgate:
+description: Regius Professor of Chemistry at the University of Glasgow
+long_description: 
+talktitle: 
+---
