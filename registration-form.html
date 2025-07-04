@@ -6,7 +6,7 @@ layout: page
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Registration</h2>
+        <h2>Registration & Abstract</h2>
         <hr class="star-primary">
         <br><br>
       </div>
@@ -89,30 +89,20 @@ layout: page
       <div class="col-lg-5">
         <div class="row control-group">
           <input type="email" name="_replyto" class="form-control" placeholder="E-Mail" required id="txtForm"
-          data-validation-required-message="Please enter your phone number.">
+          data-validation-required-message="Please enter your E-Mail.">
           <p class="help-block text-danger"></p>               
-        </div>
-      </div>
-      </div>
-      <!-- Phone -->
-      <div class="row">
-      <div class="col-lg-3 col-lg-offset-2">
-        <p><label>Phone</label></p>
-      </div>
-      <div class="col-lg-5">
-        <div class="row control-group">
-          <input name="phone" type="phone" class="form-control" placeholder="Phone" id="txtForm">
         </div>
       </div>
       </div>
       <!-- Company -->
       <div class="row">
       <div class="col-lg-3 col-lg-offset-2">
-        <p><label>Company</label></p>
+        <p><label>Affiliation/Company*</label></p>
       </div>
       <div class="col-lg-5">
         <div class="row control-group">
-          <input type="text" name="company" class="form-control" placeholder="Company" id="txtForm">
+          <input type="text" name="company" class="form-control" placeholder="Affiliation/Company" id="txtForm"
+            data-validation-required-message="Please enter an affiliation or company name.">
         </div>
       </div>
       </div>
@@ -166,14 +156,16 @@ layout: page
         </div>
       </div>
       </div>
-      <!-- Country -->
+      <!-- country -->
       <div class="row">
       <div class="col-lg-3 col-lg-offset-2">
         <p><label>Country*</label></p>
       </div>
       <div class="col-lg-5">
         <div class="row control-group">
-          <p>{% include countries.html %}</p>
+          <input type="text" name="country" class="form-control" required placeholder="Country" id="txtForm"
+          data-validation-required-message="Please enter your billing country here.">
+          <p class="help-block text-danger"></p>
         </div>
       </div>
       </div>
@@ -214,7 +206,7 @@ layout: page
         <!-- Company -->
       <div class="row">
       <div class="col-lg-3 col-lg-offset-2">
-        <p><label>Company presenting author*</label></p>
+        <p><label>Affiliation/Company presenting author*</label></p>
       </div>
       <div class="col-lg-5">
         <div class="row control-group">
@@ -237,14 +229,16 @@ layout: page
         </div>
       </div>
       </div>
-      <!-- country -->
+      <!-- Country -->
       <div class="row">
       <div class="col-lg-3 col-lg-offset-2">
         <p><label>Country presenting author*</label></p>
       </div>
       <div class="col-lg-5">
         <div class="row control-group">
-          <p>{% include countries.html %}</p>
+          <input type="text" name="country_PA" class="form-control" required placeholder="Country presenting author" id="txtForm"
+          data-validation-required-message="Please enter your affiliation country.">
+          <p class="help-block text-danger"></p>
         </div>
       </div>
       </div>
