@@ -175,99 +175,7 @@ layout: page
       <!-- Abstract -->
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h3>Authors of the Abstract</h3>
-          <hr class="star-primary">
-          <br><br>
-        </div>
-      </div>
-      <!-- Presenting Author -->
-      <div class="row">
-      <div class="col-lg-3 col-lg-offset-2">
-        <p><label>Surname presenting author*</label></p>
-      </div>
-      <div class="col-lg-5">
-        <div class="row control-group">
-          <input type="text" name="lastName_PA" class="form-control" required placeholder="Surname presenting author" id="txtForm"
-          data-validation-required-message="Please enter your last name.">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      </div>
-      <div class="row">
-      <div class="col-lg-3 col-lg-offset-2">
-        <p><label>Initial(s) first name presenting author (<i>e.g.</i> M.)*</label></p>
-      </div>
-      <div class="col-lg-5">
-        <div class="row control-group">
-          <input type="text" name="firstName_PA" class="form-control" required placeholder="Initial(s) first name presenting author" id="txtForm"
-          data-validation-required-message="Please enter the initials of your first name(s).">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      </div>
-        <!-- Company -->
-      <div class="row">
-      <div class="col-lg-3 col-lg-offset-2">
-        <p><label>Affiliation/Company presenting author*</label></p>
-      </div>
-      <div class="col-lg-5">
-        <div class="row control-group">
-          <input type="text" name="company_PA" class="form-control" required placeholder="Company presenting author" id="txtForm"
-          data-validation-required-message="Please enter your affiliation company.">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      </div>
-      <!-- City -->
-      <div class="row">
-      <div class="col-lg-3 col-lg-offset-2">
-        <p><label>City presenting author*</label></p>
-      </div>
-      <div class="col-lg-5">
-        <div class="row control-group">
-          <input type="text" name="city_PA" class="form-control" required placeholder="City presenting author" id="txtForm"
-          data-validation-required-message="Please enter your affiliation city.">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      </div>
-      <!-- Country -->
-      <div class="row">
-      <div class="col-lg-3 col-lg-offset-2">
-        <p><label>Country presenting author*</label></p>
-      </div>
-      <div class="col-lg-5">
-        <div class="row control-group">
-          <input type="text" name="country_PA" class="form-control" required placeholder="Country presenting author" id="txtForm"
-          data-validation-required-message="Please enter your affiliation country.">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      </div>
-      <br><br>
-      <!-- Co-author(s) -->
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h3>Co-author(s)</h3>
-          <hr class="star-primary">
-          <br><br>
-        </div>
-      </div>
-      <div class="row">
-      <div class="col-lg-3 col-lg-offset-2">
-        <p><label>Initial(s) first name(s) and surname(s) of co-author(s) (<i>e.g.</i> M. Muster, T. Mann)</label></p>
-      </div>
-      <div class="col-lg-5">
-        <div class="row control-group">
-          <p><input type="text" name="name_CAs" class="form-control" placeholder="Initial(s) first name(s) and surname(s) of co-author(s)" id="txtForm"/></p>
-        </div>
-      </div>
-      </div>
-      <br><br>
-      <!-- Abstract -->
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h3>Abstract Submission</h3>
+          <h3>Abstract</h3>
           <hr class="star-primary">
           <br><br>
         </div>
@@ -285,6 +193,18 @@ layout: page
           </div>
         </div>
       </div>
+      <!-- co-authors -->
+      <div class="row">
+      <div class="col-lg-3 col-lg-offset-2">
+        <p><label>Initial(s) first name(s) and surname(s) of co-author(s) (<i>e.g.</i> M. Muster, T. Mann)</label></p>
+      </div>
+      <div class="col-lg-5">
+        <div class="row control-group">
+          <p><input type="text" name="name_CAs" class="form-control" placeholder="Initial(s) first name(s) and surname(s) of co-author(s)" id="txtForm"/></p>
+        </div>
+      </div>
+      </div>
+      <br><br>
       <!-- abstract of presentation -->
       <div class="row">
         <div class="col-lg-3 col-lg-offset-2">
@@ -322,6 +242,76 @@ layout: page
           </select></p>
           </div>
         </div>
+      </div>
+      <br><br>
+      <!-- Abstract -->
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h3>Accommodation</h3>
+          <hr class="star-primary">
+          <br><br>
+        </div>
+      </div>
+      <!-- Hotel room needed? -->
+      <div class="row">
+        <div class="col-lg-3 col-lg-offset-2">
+          <p><label>Do you need a hotel room? </label></p>
+        </div>
+        <div class="col-lg-5">
+          <div class="row control-group">
+            <p><label><input type="checkbox" name="hotel_yes" value="Yes" id="txtForm"> Yes</label></p>
+            <p><label><input type="checkbox" name="hotel_no" value="No" id="txtForm"> No</label></p>
+          </div>
+        </div>
+      </div>
+      <!-- Change to talk -->
+      <div class="row">
+        <div class="col-lg-3 col-lg-offset-2">
+          <p><label>Do you require reimbursement for your hotel accommodation? </label></p>
+        </div>
+        <div class="col-lg-5">
+          <div class="row control-group">
+            <p><label><input type="checkbox" name="pay_yes" value="Yes" id="txtForm"> Yes</label></p>
+            <p><label><input type="checkbox" name="pay_no" value="No" id="txtForm"> No</label></p>
+          </div>
+        </div>
+      </div>
+      <!-- Date arrival -->
+      <div class="row">
+        <div class="col-lg-3 col-lg-offset-2">
+          <p><label for="date_arrival">Date of Arrival</label></p>
+        </div>
+        <div class="col-lg-5">
+          <div class="row control-group">
+            <input type="date" name="date_arrival" class="form-control" 
+              id="date_arrival" 
+              data-validation-required-message="Please enter the date of arrival.">
+            <p class="help-block text-danger"></p>
+          </div>
+        </div>
+      </div>
+      <!-- Date departure -->
+      <div class="row">
+        <div class="col-lg-3 col-lg-offset-2">
+          <p><label for="date_arrival">Date of Departure</label></p>
+        </div>
+        <div class="col-lg-5">
+          <div class="row control-group">
+            <input type="date" name="date_departure" class="form-control" id="date_departure" data-validation-required-message="Please enter the date of departure.">
+            <p class="help-block text-danger"></p>
+          </div>
+        </div>
+      </div>
+      <!-- co-authors -->
+      <div class="row">
+      <div class="col-lg-3 col-lg-offset-2">
+        <p><label>Special requests</label></p>
+      </div>
+      <div class="col-lg-5">
+        <div class="row control-group">
+          <p><input type="text" name="special" class="form-control" placeholder="Special requests." id="txtForm"/></p>
+        </div>
+      </div>
       </div>
       <br><br>
       <!-- Send button -->
