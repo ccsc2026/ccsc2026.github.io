@@ -4,7 +4,7 @@ talknumber: D02
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Prof. Ganna Gryn'ova
 img: 'Gryn'ova, Anya.png'
-location: 'Molecular Sciences Building, Edgbaston · University of Birmingham · Birmingham, B15 2TT, UK'
+location: 'Molecular Sciences Building, Edgbaston · University of Birmingham · B15 2TT Birmingham, UK'
 title: 'Efficient Machine Learning for Organic Materials'
 authors: 'G. Gryn'ova, S. Llenga, C. Kirkvold'
 abstract: [
