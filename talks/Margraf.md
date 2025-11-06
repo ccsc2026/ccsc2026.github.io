@@ -1,6 +1,6 @@
 layout: talkpage
 categories: [comms]
-talknumber: D02
+talknumber: D03
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Prof. Johannes Margraf
 img: 'Margraf, Johannes.png'
