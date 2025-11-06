@@ -4,9 +4,9 @@ categories: [comms]
 talknumber: 'D01'
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Julia M. Westermayr
-img: 
+img: Westermayr, Julia.png
 location: [
-    "University of Leipzig, Germany"
+"University of Leipzig, Germany"
 ]
 title: 'TBD'
 authors: 'Julia Westermayr'
