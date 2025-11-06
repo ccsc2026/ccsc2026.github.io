@@ -3,7 +3,7 @@ layout: posterpage
 categories: [poster]
 posternumber: P02
 speaker: Dr. Iryna Knysh 
-location: 'Department of Physics and Materials Science, University of Luxembourg, 162a, Avenue de la Faïencerie, L-1511 Luxembourg, LU'
+location: 'Department of Physics and Materials Science, University of Luxembourg, 162a Avenue de la Faïencerie, L-1511 Luxembourg, LU'
 title: 'Transferable machine learning force fields: from lead halide perovskite interfaces to bulk materials'
 authors: 'I. Knysh, A. Charkin-Gorbulin, C. Quarti, D. Beljonne, I. Poltavsky, A. Tkatchenko'
 abstract: 'Halide perovskites (HPs) are promising materials for next-generation photovoltaic technologies but suffer from phase instabilities and ionic migration that limit their long-term stability. [1,2] State-of-the-art machine learning force fields (MLFFs) trained on ab initio data provide a powerful framework to model such dynamic processes at the atomistic level, offering valuable insights into degradation mechanisms and design pathways for improved device performance.
