@@ -1,13 +1,13 @@
 layout: talkpage
 categories: [comms]
-talknumber: D02
+talknumber: D04
 talktime: '10.-13.03.2026, 15:00 – 15:30'
-speaker: Prof. Ganna Gryn'ova
-img: 'Gryn'ova, Anya.png'
-location: 'Molecular Sciences Building, Edgbaston · University of Birmingham · Birmingham, B15 2TT, UK'
-title: 'Efficient Machine Learning for Organic Materials'
-authors: 'G. Gryn'ova, S. Llenga, C. Kirkvold'
+speaker: Prof. Dr. Steven Lopez
+img: 'Lopez, Steven.png'
+location: 'Northeastern University · 360 Huntington Ave, 02115 Boston, USA'
+title: 'Machine-learning-accelerated photodynamics simulations of organic photochemical reactions'
+authors: 'S. A. Lopez'
 abstract: [
-"Significant recent advances in chemical machine learning allow predictions of structures and physico-chemical properties of molecular systems with high accuracy and at a fraction of the computational cost of conventional quantum-chemical modelling. However, the associated tools, such as foundational models or quantum-inspired representations are not easily and directly transferrable to periodic materials due to the need to fine-tune the models on target materials, sparsity of high-quality experimental training data, and the higher costs of generating the presentations. In this talk, we will discuss our recent efforts to address these limitations. Focusing on metal-organic and covalent organic frameworks, we will present a new quantum-inspired representation for machine learning tasks and a new technique for reducing the dimensionality and representing the chemical space most compactly. We will also demonstrate how persistent homology can be employed to coarse-grain the representation reducing the computational effort without sacrificing the accuracy of the predictions."
+"Photochemical reactions are increasingly important for constructing value-added, strained organic architectures. Direct excitation and photoredox reactions typically require mild conditions to access therapeutic gases (e.g., carbon monoxide) and new synthetic methodologies. A priori design of photochemical reactions is challenging because degenerate excited states often result in competing reaction mechanisms to undesired products. Further, a lack of experimental techniques that provide atomistic structural information on ultrafast timescales (10–15 – 10–12 s) has limited general rules about these reactions. Computations, however, provide a path forward. I will discuss how my group has leveraged multiconfigurational complete active space self consistent field (CASSCF) calculations, non-adiabatic molecular dynamics, and machine learning (ML) techniques to understand reaction mechanisms and enumerate new reaction pathways. I will introduce our new open-access machine learning tool, Python Rapid Artificial Intelligence Ab Initio Molecular Dynamics (PyRAI2MD), which enables 100,000-fold longer simulations than current NAMD simulations with multiconfigurational quantum chemical methods. I will describe how PyRAI2MD has enabled the first ML-NAMD simulations with QM (CAS/HF) training data. The presentation will explain the origins of the reactivities and selectivities of photochemical pericyclic reactions and CO-evolving reactions in aqueous environments."
 ]
 ---
