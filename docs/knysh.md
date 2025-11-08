@@ -11,8 +11,8 @@ In this work, we develop an MLFF based on the equivariant message-passing archit
 references: [
 "[1] P. Calado, A. M. Telford, D. Bryant, at al. Nat. Commun. 2016, 7, 13831.",
 "[2] W. Nie, J.-C. Blancon, A. J. Neukirch, et al. Nat. Commun. 2016, 7, 11574.",
-"[3] I. Batatia, D. P. Kovacs, G. N. C. Simm, et al. Adv. Neural Inf. Process. Syst. 2022, 35, 11423–11436.“,
-"[4] J. P. Perdew, K. Burke, and M. Ernzerhof. Phys. Rev. Lett. 1996, 77, 3865–3868.“,
+"[3] I. Batatia, D. P. Kovacs, G. N. C. Simm, et al. Adv. Neural Inf. Process. Syst. 2022, 35, 11423–11436.",
+"[4] J. P. Perdew, K. Burke, and M. Ernzerhof. Phys. Rev. Lett. 1996, 77, 3865–3868.",
 "[5] J. Hermann and A. Tkatchenko. Phys. Rev. Lett. 2020, 124, 146401."
 ]
 ---
