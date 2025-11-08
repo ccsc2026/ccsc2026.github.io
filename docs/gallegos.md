@@ -6,7 +6,8 @@ speaker: Dr. Miguel Gallegos
 location: 'Department of Physics and Materials Science, University of Luxembourg, L-1511 Luxembourg City, Luxembourg, LU'
 title: 'ChemDBX: Building, Indexing, and Exploring Chemical Spaces for Molecular Discovery'
 authors: 'M. Gallegos, A. Tkatchenko'
-abstract: 'The systematic exploration of Chemical Compound Space (CCS) has become a cornerstone of modern chem-
+abstract: |
+The systematic exploration of Chemical Compound Space (CCS) has become a cornerstone of modern chem-
 istry, driven by the rapid growth of machine learning (ML) approaches. The emergence of large-scale chemical
 datasets such as GDB17, (1) QCML, (2) or OMol25, (3) to name a few, has opened unprecedented opportunities
 to uncover structure–property relationships and design novel molecules across chemistry, materials science, and
@@ -31,8 +32,7 @@ Finally, ChemDBX integrates molecular search tools, interactive analysis and vis
 quantum-mechanical properties, and modules for tailor-made database generation through both top-down and
 bottom-up strategies. Equipped with a graphical user interface (GUI) and a command-line interface (CLI), this
 unified framework enables robust and transparent exploration of CCS, while supporting the informed creation
-of novel databases aligned with active learning protocols.'
-
+of novel databases aligned with active learning protocols.
 references: [
 [1] L. Ruddigkeit, R. van Deursen, L. C. Blum, J.-L. Reymond, Journal of Chemical Information and Modeling
 2012, 52, 2864–2875.
