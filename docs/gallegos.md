@@ -32,6 +32,7 @@ quantum-mechanical properties, and modules for tailor-made database generation t
 bottom-up strategies. Equipped with a graphical user interface (GUI) and a command-line interface (CLI), this
 unified framework enables robust and transparent exploration of CCS, while supporting the informed creation
 of novel databases aligned with active learning protocols.'
+
 references: [
 [1] L. Ruddigkeit, R. van Deursen, L. C. Blum, J.-L. Reymond, Journal of Chemical Information and Modeling
 2012, 52, 2864–2875.
