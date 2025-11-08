@@ -34,13 +34,13 @@ bottom-up strategies. Equipped with a graphical user interface (GUI) and a comma
 unified framework enables robust and transparent exploration of CCS, while supporting the informed creation
 of novel databases aligned with active learning protocols."]
 references: [
-['L. Ruddigkeit, R. van Deursen, L. C. Blum, J.-L. Reymond', Journal of Chemical Information and Modeling
-2012, 52, 2864–2875.],
-['S. Ganscha, O. T. Unke, D. Ahlin, H. Maennel, S. Kashubin, K.-R. Müller', Scientific Data 2025, 12, 406.],
+['L. Ruddigkeit, R. van Deursen, L. C. Blum, J.-L. Reymond', 'Journal of Chemical Information and Modeling
+2012', '52', '2864–2875'],
+['S. Ganscha, O. T. Unke, D. Ahlin, H. Maennel, S. Kashubin, K.-R. Müller', 'Scientific Data 2025', '12', '406'],
 ['D. S. Levine, M. Shuaibi, E. W. C. Spotte-Smith, M. G. Taylor, M. R. Hasyim, K. Michel, I. Batatia,
 G. Csányi, M. Dzamba, P. Eastman, N. C. Frey, X. Fu, V. Gharakhanyan, A. S. Krishnapriyan, J. A.
 Rackers, S. Raja, A. Rizvi, A. S. Rosen, Z. Ulissi, S. Vargas, C. L. Zitnick, S. M. Blau, B. M. Wood',
-The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models, 2025. https://arxiv.org/
-abs/2505.08762.]
+'The Open Molecules 2025 (OMol25) Dataset', 'Evaluations, and Models', '2025', 'https://arxiv.org/
+abs/2505.08762']
 ]
 ---
