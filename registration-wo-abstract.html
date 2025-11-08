@@ -180,35 +180,26 @@ layout: page
         </div>
       </div>
       <div class="row">
-      <div class="col-lg-5 col-lg-offset-1">
-        <div class="row control-group">
-          <input type="text" name="lastName_PA" class="form-control" required placeholder="Surname presenting author" id="txtForm"
-          data-validation-required-message="Please enter your last name.">
-          <p class="help-block text-danger"></p>
+        <div class="col-lg-5">
+          <p>Please select any dietary requirements that apply to you.</p>
+            <div class="row control-group">
+              <p><label><input type="checkbox" name="food_no" value="Yes" id="txtForm"> No specific requirements</label></p>
+              <p><label><input type="checkbox" name="dfood_vegetarian" value="No" id="txtForm"> Vegetarian</label></p>
+              <p><label><input type="checkbox" name="dfood_vegan" value="No" id="txtForm"> Vegan</label></p>
+              <p><label><input type="checkbox" name="dfood_other" value="No" id="txtForm"> Other, please specify:</label></p>
+              <p><input type="text" name="food_other_text" class="form-control" required placeholder="Other food requirements" id="txtForm"
+            data-validation-required-message="Please enter your dietary requirements / allergies.">
+            <p class="help-block text-danger"></p>
+            </div>
+        </div>       
+        <div class="col-lg-5">
+          <p>We are considering organizing a conference dinner (details to be confirmed, depending on budget and interest).
+            Would you be interested in joining if it takes place? Please note that space would be limited to approximately 125 participants.</p>
+            <div class="row control-group">
+              <p><label><input type="checkbox" name="dinner_yes" value="Yes" id="txtForm"> Yes</label></p>
+              <p><label><input type="checkbox" name="dinner_no" value="No" id="txtForm"> No</label></p>
+            </div>
         </div>
-      </div>
-      </div>
-      <div class="row">
-      <div class="col-lg-5">
-        <p>Please select any dietary requirements that apply to you.</p>
-          <div class="row control-group">
-            <p><label><input type="checkbox" name="food_no" value="Yes" id="txtForm"> No specific requirements</label></p>
-            <p><label><input type="checkbox" name="dfood_vegetarian" value="No" id="txtForm"> Vegetarian</label></p>
-            <p><label><input type="checkbox" name="dfood_vegan" value="No" id="txtForm"> Vegan</label></p>
-            <p><label><input type="checkbox" name="dfood_other" value="No" id="txtForm"> Other, please specify:</label></p>
-            <p><input type="text" name="food_other_text" class="form-control" required placeholder="Other food requirements" id="txtForm"
-          data-validation-required-message="Please enter your dietary requirements / allergies.">
-          <p class="help-block text-danger"></p>
-          </div>
-      </div>       
-      <div class="col-lg-5">
-        <p>We are considering organizing a conference dinner (details to be confirmed, depending on budget and interest).
-          Would you be interested in joining if it takes place? Please note that space would be limited to approximately 125 participants.</p>
-          <div class="row control-group">
-            <p><label><input type="checkbox" name="dinner_yes" value="Yes" id="txtForm"> Yes</label></p>
-            <p><label><input type="checkbox" name="dinner_no" value="No" id="txtForm"> No</label></p>
-          </div>
-      </div>
       </div>
       <br><br>
       <!-- Send button -->
