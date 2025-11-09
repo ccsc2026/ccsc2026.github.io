@@ -14,5 +14,6 @@ web: https://mse.utoronto.ca/faculty-staff/professors/von-lilienfeld-anatole/
 researchgate: https://www.researchgate.net/profile/Anatole-Von-Lilienfeld
 description: Professor of Computational Chemistry at the University of Toronto
 long_description:
-talktitle: 
+affiliation: University of Manchester (UK)
+talklink: lilienfeld
 ---
