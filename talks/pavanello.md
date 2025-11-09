@@ -5,7 +5,7 @@ talknumber: D12
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Prof. Michele Pavanello
 img: 'Pavanello, Michele.png'
-location: 'Rutgers University-Newark · Department of Physics · (USA)'
+location: 'Rutgers University-Newark · Department of Physics · New Jersey (USA)'
 title: 'Machine Learning Electron Correlation Via the 2-Electron Reduced Density Matrix'
 authors: 'M. Pavanello'
 abstract: [
