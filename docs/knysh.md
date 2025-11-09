@@ -3,7 +3,7 @@ layout: posterpage
 categories: [poster]
 posternumber: P02
 speaker: Dr. Iryna Knysh 
-location: 'Department of Physics and Materials Science, University of Luxembourg, 162a Avenue de la Faïencerie, L-1511 Luxembourg, LU'
+location: 'University of Luxembourg · Department of Physics and Materials Science · Luxembourg (LU)'
 title: 'Transferable machine learning force fields: from lead halide perovskite interfaces to bulk materials'
 authors: 'I. Knysh, A. Charkin-Gorbulin, C. Quarti, D. Beljonne, I. Poltavsky, A. Tkatchenko'
 abstract: [
