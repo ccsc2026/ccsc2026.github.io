@@ -14,5 +14,6 @@ web: https://www.chemie.uni-leipzig.de/en/wilhelm-ostwald-institute-for-physical
 researchgate: https://www.researchgate.net/scientific-contributions/Julia-Westermayr-2150045925
 description: Professor of Theoretical Chemistry at the University of Leipzig
 long_description:
-talktitle: 
+talklink: westermayr
+talktitle: 'TBA'
 ---
