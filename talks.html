@@ -73,23 +73,23 @@ layout: page
   </div>
 </section>
 <br>
-<section id="contributed talks">
+<section class="success" id="contributed talks">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
         <h3>Contributed Talks <i class="fa-solid fa-bolt" style="font-size:24px;color:##5d308a;"></i> </h3>
-        <hr class="star-primary">
+        <hr class="star-light">
         <br>
       </div>
       <br>
       {% for ct in site.categories.contrib %}
         <div class="row">
           <div class="col-lg-4 col-lg-offset-2">
-            <a href="https://ccsc2026.github.io/{{ ct.link }}" target="_blank" style="font-size:20px;color:#5d308a;">
+            <a href="https://ccsc2026.github.io/{{ ct.link }}" target="_blank" style="font-size:20px;color:#FFFFFF;">
               <b>{{ ct.speaker }}</b>, {{ ct.location }}</a>
           </div>
           <div class="col-lg-4">
-            <a href="https://ccsc2026.github.io/{{ ct.link }}" target="_blank" style="font-size:20px;color:#5d308a;">
+            <a href="https://ccsc2026.github.io/{{ ct.link }}" target="_blank" style="font-size:20px;color:#FFFFFF;">
             {% if ct.title %}
               <i>{{ ct.title }}</i> </a>
             {% else %}
