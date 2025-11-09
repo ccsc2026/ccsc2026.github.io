@@ -5,7 +5,7 @@ talknumber: D07
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Prof. Dr. Joshua Schrier
 img: 'Schrier, Joshua.png'
-location: 'Fordham University · 441 E. Fordham Road, 10458 The Bronx, USA'
+location: 'Fordham University · (USA)'
 title: 'Agentic workflows for exploring the chemical space of lanthanide/actinide extractants'
 authors: 'J. Schrier'
 abstract: [
