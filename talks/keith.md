@@ -5,7 +5,7 @@ talknumber: D11
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Prof. John Keith
 img: 'Keith, John.png'
-location: 'University of Pittsburgh · (USA)'
+location: 'University of Pittsburgh · Department of Chemical and Petroleum Engineering · Pennsylvania (USA)'
 title: 'Post Semiempirical Quantum Chemistry Methods'
 authors: 'J. Keith, B. Zulueta, M. Plum, C. Mhatre, M. Marciesky, V. Kam'
 abstract: [
