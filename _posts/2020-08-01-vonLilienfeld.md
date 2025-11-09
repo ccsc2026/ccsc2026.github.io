@@ -4,7 +4,7 @@ modal-id: 15
 date: 2020-08-01
 categories: [example, keynote]
 talklink: von Lilienfeld
-affiliation: University of Toronto (PA)
+affiliation: University of Toronto (CA)
 img: von Lilienfeld, Anatole.png
 alt: Anatole von Lilienfeld
 title: Prof. Anatole von Lilienfeld
