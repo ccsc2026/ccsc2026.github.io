@@ -5,7 +5,7 @@ talknumber: D05
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Prof. Dr. Anatole von Lilienfeld
 img: 'von Lilienfeld, Anatole.png'
-location: 'University of Toronto · (CA)'
+location: 'University of Toronto ·  Department of Chemistry/Materials/Physics · Toronto (CA)'
 title: 'The magnificent 7: Simple rules for efficient machine learning in CCS'
 authors: 'A. von Lilienfeld'
 abstract: [
