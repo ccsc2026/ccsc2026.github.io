@@ -5,7 +5,7 @@ talknumber: D10
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Dr. Johannes Hoja
 img: 'Hoja, Johannes.png'
-location: 'University of Graz · Department of Chemistry · (AT)'
+location: 'University of Graz · Department of Chemistry · Graz (AT)'
 title: 'Exploring Solid-State Reactions and Polymorph Interconversions in Molecular Crystals with Machine-Learned Force Fields'
 authors: 'J. Hoja'
 abstract: [
