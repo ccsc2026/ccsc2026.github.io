@@ -14,5 +14,6 @@ web: https://sasn.rutgers.edu/michele-pavanello
 researchgate: https://www.researchgate.net/profile/Michele-Pavanello
 description: Professor of Chemistry and Physics at Rutgers University in new Jersey
 long_description:
-talktitle: 
+talklink: pavanello
+talktitle: 'Machine Learning Electron Correlation Via the 2-Electron Reduced Density Matrix'
 ---
