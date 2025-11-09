@@ -5,7 +5,7 @@ talknumber: D04
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Prof. Dr. Steven Lopez
 img: 'Lopez, Steven.png'
-location: 'Northeastern University · (USA)'
+location: 'Northeastern University · Department of Chemistry & Chemical Biology · Massachusetts (USA)'
 title: 'Machine-learning-accelerated photodynamics simulations of organic photochemical reactions'
 authors: 'S. A. Lopez'
 abstract: [
