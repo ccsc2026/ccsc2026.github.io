@@ -3,7 +3,7 @@ layout: posterpage
 categories: [poster]
 posternumber: P01
 speaker: Dario Baum
-location: ['VU Amsterdam, De Boelelaan 1105, 1081HV Amsterdam, NL']
+location: 'Vrije University · Department of Theoretical Chemistry · Amsterdam (NL)'
 authors: 'D. Baum, A. Förster, L. Visscher'
 title: 'Best of Two Worlds Approach to Computational Spectroscopy: Accurate and Generalizable Machine Learning for GW'
 abstract: [
