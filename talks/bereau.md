@@ -5,7 +5,7 @@ talknumber: D08
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Prof. Dr. Tristan Bereau
 img: 'Bereau, Tristan.png'
-location: 'Institute for Theoretical Physics · Heidelberg University · Philosophenweg 19, 69120 Heidelberg, DE'
+location: 'Institute for Theoretical Physics · Heidelberg University · (DE)'
 title: 'Transferable coarse-grained models accelerate chemical-space exploration'
 authors: 'T. Bereau'
 abstract: [
