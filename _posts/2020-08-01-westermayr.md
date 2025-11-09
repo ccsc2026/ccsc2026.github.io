@@ -2,7 +2,7 @@
 layout: default
 modal-id: 21
 date: 2020-08-01
-categories: [example, keynote]
+categories: [example, cecam]
 talklink: westermayr
 affiliation: University of Leipzig (DE)
 img: Westermayr, Julia.png
