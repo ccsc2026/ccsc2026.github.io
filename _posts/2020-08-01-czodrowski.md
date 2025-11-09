@@ -14,5 +14,6 @@ web: https://personen.uni-mainz.de/public/person/50063
 researchgate: https://www.researchgate.net/scientific-contributions/Paul-Czodrowski-2263331651
 description: Professor of Physical Chemistry at the Johannes Gutenberg University, Mainz
 long_description:
-talktitle: 
+talktitle: 'TBC'
+talklink: czodrowski 
 ---
