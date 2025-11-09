@@ -5,7 +5,7 @@ talknumber: D13
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Prof. Rocío Mercado
 img: 'Mercado, Rocio.png'
-location: 'Chalmers University of Technology · (SE)'
+location: 'Chalmers University of Technology · Department of Computer Science and Engineering · Gothenburg (SE)'
 title: 'Generative AI for Molecular Design: From Drugs to Sustainable Materials'
 authors: 'R. Mercado'
 abstract: [
