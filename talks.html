@@ -44,11 +44,13 @@ layout: page
     <div class="row">
       <div class="col-lg-12 text-center">
         <h3>Invited Talks <i class="fa-solid fa-chalkboard-user" style="font-size:24px;color:#5d308a;"></i> </h3>
+        <h4>CECAM Workshop 1404: <a href="https://www.cecam.org/workshop-details/diversification-strategies-for-chemical-space-simulation-and-modelling-1404" 
+                                   target="_blank">Diversification Strategies for Chemical Space: Simulation and Modelling</a></h4>
         <hr class="star-primary">
         <br>
       </div>
       <br>
-      {% for it in site.categories.invited %}
+      {% for it in site.categories.cecam %}
         <div class="row">
           <div class="col-lg-4 col-lg-offset-2">
             <a href="https://ccsc2026.github.io/talks/{{ it.talklink }}" target="_blank" style="font-size:20px;color:#5d308a;">
@@ -66,46 +68,16 @@ layout: page
   </div>
 </section>
 <br>
-<section class="success"  id="invited talks">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h3>Invited Communication Talks <i class="fa-solid fa-comment" style="font-size:24px;color:#ffffff;"></i> </h3>
-        <hr class="star-light">
-        <br>
-      </div>
-      <br>
-      {% for it in site.categories.comms %}
-        <div class="row">
-          <div class="col-lg-4 col-lg-offset-2">
-            <a href="https://ccsc2026.github.io/{{ it.link }}" target="_blank" style="font-size:20px;color:#ffffff;">
-              <b>{{ it.speaker }}</b>, {{ it.location }}</a>
-          </div>
-          <div class="col-lg-4">
-            <a href="https://ccsc2026.github.io/{{ it.link }}" target="_blank" style="font-size:20px;color:#ffffff;">
-            {% if it.title %}
-              <i>{{ it.title }}</i> </a>
-            {% else %}
-              <i>{{ tba }}</i> </a>
-            {% endif %}
-          </div>
-        </div>
-        <br><br>
-      {% endfor %}
-    </div>  
-  </div>
-</section>
-<br>
 <section id="contributed talks">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h3>Speed Talks <i class="fa-solid fa-bolt" style="font-size:24px;color:##5d308a;"></i> </h3>
+        <h3>Contributed Talks <i class="fa-solid fa-bolt" style="font-size:24px;color:##5d308a;"></i> </h3>
         <hr class="star-primary">
         <br>
       </div>
       <br>
-      {% for ct in site.categories.speedtalk %}
+      {% for ct in site.categories.contrib %}
         <div class="row">
           <div class="col-lg-4 col-lg-offset-2">
             <a href="https://ccsc2026.github.io/{{ ct.link }}" target="_blank" style="font-size:20px;color:#5d308a;">
