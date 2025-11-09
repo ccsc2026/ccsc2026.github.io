@@ -16,4 +16,5 @@ description: Professor of Computational Chemistry at the University of Toronto
 long_description:
 affiliation: University of Manchester (UK)
 talklink: lilienfeld
+talktitle: 'The magnificent 7: Simple rules for efficient machine learning in CCS'
 ---
