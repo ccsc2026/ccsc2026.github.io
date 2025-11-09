@@ -2,7 +2,7 @@
 layout: default
 modal-id: 14
 date: 2020-08-01
-categories: [example, keynote]
+categories: [example, cecam]
 talklink: todorovic
 affiliation: University of Turku (FI)
 img: Todorovic, Milica.png
