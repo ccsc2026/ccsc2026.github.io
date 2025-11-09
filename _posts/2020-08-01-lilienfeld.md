@@ -14,7 +14,7 @@ web: https://mse.utoronto.ca/faculty-staff/professors/von-lilienfeld-anatole/
 researchgate: https://www.researchgate.net/profile/Anatole-Von-Lilienfeld
 description: Professor of Computational Chemistry at the University of Toronto
 long_description:
-affiliation: University of Manchester (UK)
+affiliation: University of Toronto (CA)
 talklink: lilienfeld
 talktitle: 'The magnificent 7: Simple rules for efficient machine learning in CCS'
 ---
