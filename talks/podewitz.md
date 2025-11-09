@@ -5,7 +5,7 @@ talknumber: D09
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Prof. Dr. Maren Podewitz
 img: 'Podewitz, Maren.png'
-location: 'Institute of Materials Chemistry · TU Wien · Getreidemarkt 9, 1060 Wien, AT'
+location: 'Technical University of Wien · Institute of Materials Chemistry · (AT)'
 title: 'Navigating Free Energy Landscapes in the Age of Machine Learning: From Static Mechanisms to Reaction Dynamics'
 authors: 'M. Podewitz'
 abstract: [
