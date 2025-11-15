@@ -1,6 +1,6 @@
 ---
 layout: talkpage
-categories: [keynote]
+categories: [comms]
 talknumber: D10
 talktime: '10.-13.03.2026, 15:00 – 15:30'
 speaker: Dr. Johannes Hoja
