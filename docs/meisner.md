@@ -3,7 +3,7 @@ layout: posterpage
 categories: [poster]
 posternumber: P14
 speaker: Prof. Jan Meisner
-location: 'Heinrich-Heine University Düsseldorf · Germany (DE)'
+location: 'Heinrich-Heine University Düsseldorf · Düsseldorf (DE)'
 title: 'Discovering Reaction Mechanisms in Porous Media with ab initio Nanoreactor Molecular Dynamics'
 authors: 'J. Meisner, D. Deißenbeck, W. A. Kopp'
 abstract: [
