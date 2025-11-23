@@ -13,6 +13,6 @@ references: [
 ['L.-P. Wang et al.', 'Nat. Chem. 2014', '6', '1044-1048'],
 ['J. A. Meissner, J. Meisner', 'J. Chem. Theory Comput. 2025', '1', '218-229'],
 ['P. Kuboth et al.', 'J. Chem. Inf. Model. 2025', '65', '7', '3127–3136'],
-['D. Deißenbeck et al.', 'Angewandte Chemie', 'accepted (DOI= 10.1002/anie.202514074)']
+['D. Deißenbeck et al.', 'Angewandte Chemie accepted', 'DOI:10.1002/anie.202514074']
 ]
 ---
