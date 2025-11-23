@@ -21,6 +21,6 @@ references: [
 ['A. A. Naik; C. Ertural; N. Dhamrait; P. Benner; J. George', 'Sci. Data 2023', '10', '610'],
 ['Y. Liu; J. D. Morrow; C. Ertural; N. L. Fragapane; J. L. A. Gardner; A. A. Naik; Y. Zhou; J. George; V. L. Deringer', 'Nat. Commun. 2025', '16', '7666'],
 ['S. Amariamir; J. George; P. Benner', 'Digit. Discov. 2025', '4', '1437–1448'],
-['K. Ueltzen; A. A. Naik; C. Ertural; P. Benner; J. George', '2025', 'ChemRxiv preprint', "DOI: 10.26434/chemrxiv-2025-xj84d"]
+['K. Ueltzen; A. A. Naik; C. Ertural; P. Benner; J. George', '2025', 'ChemRxiv preprint', 'DOI= 10.26434/chemrxiv-2025-xj84d']
 ]
 ---
