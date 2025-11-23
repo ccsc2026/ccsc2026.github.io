@@ -14,5 +14,6 @@ web: https://www.utu.fi/en/people/milica-todorovic
 researchgate: https://www.researchgate.net/profile/Milica-Todorovic-8
 description: Associate Professor of Materials Engineering at the University of Turku
 long_description:
-talktitle: 
+talklink: todorovic
+talktitle: 'Multi-fidelity Bayesian optimization structure search'
 ---
