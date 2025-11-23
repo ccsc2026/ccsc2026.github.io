@@ -10,5 +10,4 @@ title: 'Machine learning for electrons and nuclei in atomistic simulations of ma
 authors: 'M. Rossi'
 abstract: [
 "TBD"]
-]
 ---
