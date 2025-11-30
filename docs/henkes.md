@@ -13,6 +13,6 @@ We demonstrate aims-PAX`s capabilities across a range of challenging scenarios: 
 references: [
 ['O. T. Unke; S. Chmiela; H. E. Sauceda; M. Gastegger; I. Poltavsky; K. T. Schütt; A. Tkatchenko; K.-R. Müller', 'Chemical Reviews 2021', '121'],
 ['T. Henkes; S. Sharma; A. Tkatchenko; M. Rossi; I. Poltavskyi', 'arXiv:2508.12888'],
-['V. Blum; R. Gehrke; F. Hanke; P. Havu; V. Havu; X. Ren; K. Reuter; M. Scheffler', 'Computer Physics Communications 2009', '180', '2175–2196.']
+['V. Blum; R. Gehrke; F. Hanke; P. Havu; V. Havu; X. Ren; K. Reuter; M. Scheffler', 'Computer Physics Communications 2009', '180', '2175–2196']
 ]
 ---
