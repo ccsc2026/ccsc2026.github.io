@@ -16,6 +16,6 @@ references: [
 ['J. Hoja; H.-Y. Ko; M. A. Neumann; R. Car; R. A. DiStasio Jr.; A. Tkatchenko', 'Sci. Adv. 2019', '5', 'aau3338'],
 ['J. T. Frank; O. T. Unke; K.-R. Müller; S. Chmiela', 'Nat. Commun. 2024', '15', '6539'],
 ['A. Kabylda et al.', 'J. Am. Chem. Soc. 2025', '147', '33723–33734'],
-['N. Goncharova, J. Hoja', 'J. Chem. Phys. 2025', 'arXiv:2410.10506']
+['N. Goncharova; J. Hoja', 'J. Chem. Phys. 2025', 'arXiv:2410.10506']
 ]
 ---
