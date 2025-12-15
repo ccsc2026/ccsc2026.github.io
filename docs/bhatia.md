@@ -15,6 +15,6 @@ references: [
 ['J. P. Perdew et al.', 'J. Chem. Phys. 1996', '105', '9982–9985'],
 ['E. Caldeweyher et al.', 'J. Chem. Phys. 2019', '150', '154122'],
 ['A. Tkatchenko et al.', 'Phys. Rev. Lett. 2012', '108', '236402'],
-['M. Ceriotti et al.', 'J. Chem. Phys. 2011', '134', '84104'; 'Comp. Phys. Comm. 2014', '185 (3)', '1019']
+['M. Ceriotti et al.', 'J. Chem. Phys. 2011', '134', '84104', 'Comp. Phys. Comm. 2014', '185 (3)', '1019']
 ]
 ---
