@@ -67,3 +67,9 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+collections:
+  poster:
+    output: true
+    permalink: /:collection/:name
+
