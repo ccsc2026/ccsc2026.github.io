@@ -1,4 +1,3 @@
-
 ---
 layout: posterpage
 categories: [poster]
