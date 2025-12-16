@@ -10,13 +10,13 @@
     </div>
     <div class='row'>
       <!-- iterate over all files and list them in a table for all posters -->
-      {% for abstract in site.poster %}
+      {% for p in site.poster %}
         <div class="col-lg-2 col-lg-offset-2">
-          <p>{{ abstract.posternumber }}</p>
+          <p>{{ p.posternumber }}</p>
         </div>
         <div class="col-lg-6">
-          <p><a href="https://ccsc2026.github.io/{{ abstract.link }}" target="_blank" style="font-size:20px;color:#ffffff;">
-                <b>{{ abstract.speaker }}</b>, {{ abstract.location }}</a>
+          <p><a href="{{ p.url }}" target="_blank" style="font-size:20px;color:#ffffff;">
+                <b>{{ p.speaker }}</b>, {{ p.location }}</a>
           </p>
         </div>
       {% endfor %}
