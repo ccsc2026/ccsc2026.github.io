@@ -14,6 +14,6 @@ In this work, we overcome these limitations by combining our recently developed 
 Our results uncover design principles for tuning photophysical properties within chromophore compound space through targeted substitutions, demonstrating the potential of machine learning to unlock excited-state landscape exploration at scale."]
 references: [
 ['N. H. List; C. M. Jones; T. Martínez', 'J. Commun. Chem. 2024', '7', '25'],
-['R. Barrett; C. Ortner; J. Westermayr', 'arXiv PrePrint 2025', 'arXiv:2502.12870']
+['R. Barrett; C. Ortner; J. Westermayr', 'arXiv prePrint 2025', 'arXiv:2502.12870']
 ]
 ---
