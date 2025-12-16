@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P04
+posternumber: P06
 speaker: Dr. Miguel Gallegos
 location: 'University of Luxembourg · Department of Physics and Materials Science · Luxembourg (LU)'
 title: 'ChemDBX: Building, Indexing, and Exploring Chemical Spaces for Molecular Discovery'
