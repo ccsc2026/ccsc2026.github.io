@@ -1,0 +1,15 @@
+---
+layout: posterpage
+categories: [poster]
+posternumber: P15
+speaker: Dr. Wassja A. Kopp
+location: 'Heinrich-Heine University Düsseldorf · Department of Physical Chemistry · Germany (DE)'
+title: 'Three-Dimensional and Immersive Visualisation of Complex Chemical Reaction Networks'
+authors: 'W. A. Kopp, P. Kuboth, J. Meisner'
+abstract: [
+"Understanding complex chemical reaction networks remains a central challenge in theoretical and computational chemistry. Modern mechanisms in combustion, atmospheric chemistry, heterogeneous catalysis, or prebiotic synthesis often contain thousands of molecular species and tens of thousands of elementary reactions. Conventional two-dimensional depictions, on paper or screen, provide only limited structural resolution: overlapping edges obscure mechanistic relationships, dense subgraphs conceal the presence of alternative channels, and central intermediates are difficult to distinguish visually from peripheral nodes.
+Autograph is a browser-based platform designed to address these limitations by representing reaction networks directly in three dimensions. The spatial layout distributes related reaction sequences into coherent regions and separates densely interconnected portions of the network into distinct volumes rather than overlapping planar projections. As a result, mechanistic motifs such as branching points, competing pathways, or structurally influential intermediates become more easily identifiable. By options on filtering, path-finding, and visibility, the Autograph interface facilitates taming the complexity of reaction networks.
+The addition of a Virtual-Reality (VR) interface extends this three-dimensional representation into a fully navigable spatial environment. Researchers can examine reaction networks from arbitrary positions and resolve dense regions by physically moving around them. VR eliminates the perceptual compression that occurs on flat displays, which is particularly relevant for large and highly interconnected mechanisms where planar layouts mask the distinction between local and global connectivity. A multi-user mode allows multiple researchers to occupy the same virtual space, highlight structural features, and discuss alternative pathways with a shared and geometrically consistent frame of reference. This opens up educational explorations in computational chemistry courses.
+Our software has been applied to investigate several representative datasets, including oxidative CH₂O/H₂O pyrolysis, atmospheric sulfur reaction networks, and reaction networks generated from ab initio nanoreactor molecular dynamics. In these studies, three-dimensional inspection facilitated the identification of dominant pathways, bottlenecks, cyclic substructures, and kinetically relevant alternative channels that were difficult to isolate in conventional 2D layouts.
+By this integration of true 3D representation and VR interaction, complex reaction networks become spatially accessible objects whose structural and mechanistic properties can be analyzed with greater clarity and reduced ambiguity compared to flat visualizations."]
+---
