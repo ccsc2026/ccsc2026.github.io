@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P23
+posternumber: P24
 speaker: Prof. Dr. Jonny Proppe
 location: 'Technical University of Braunschweig · Braunschweig (DE)'
 title: 'Data-Driven Insights into Carbon Capture and Utilization'
