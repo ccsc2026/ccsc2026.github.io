@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P1
+posternumber: P01
 speaker: Manasa Basavarajappa
 location: 'Harish-Chandra Research Institute · Department of Physics · Prayagraj (IN)'
 title: 'Interplay of Dynamic Defects and Ultrafast Carrier Dynamics in Lead Free Double Perovskites Toward Stable, High-Performance Photovoltaics'
