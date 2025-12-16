@@ -72,4 +72,7 @@ collections:
   poster:
     output: true
     permalink: /:collection/:name
+  digidemo:
+    output: true
+    permalink: /:collection/:name
 
