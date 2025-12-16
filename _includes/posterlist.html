@@ -1,0 +1,25 @@
+<!-- List of Posters Section -->
+<section class='success' id="posters">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h3>Posters</h3>
+        <hr class="star-light">
+        <br>
+      </div>
+    </div>
+    <div class='row'>
+      <!-- iterate over all files and list them in a table for all posters -->
+      {% for abstract in site.categories.poster %}
+        <div class="col-lg-2 col-lg-offset-2">
+          <p>{{ abstract.posternumber }}</p>
+        </div>
+        <div class="col-lg-6">
+          <p><a href="https://ccsc2026.github.io/{{ abstract.link }}" target="_blank" style="font-size:20px;color:#ffffff;">
+                <b>{{ abstract.speaker }}</b>, {{ abstract.location }}</a>
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
