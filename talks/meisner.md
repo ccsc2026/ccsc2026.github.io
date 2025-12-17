@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [contrib]
-talknumber: D2.11
-talktime: '11.03.2026, 18:00 – 18:30'
+talknumber: D3.10
+talktime: '12.03.2026, 17:45 – 18:15'
 speaker: Prof. Jan Meisner
 location: 'Heinrich-Heine University Düsseldorf · Düsseldorf (DE)'
 title: 'Discovering Reaction Mechanisms in Porous Media with ab initio Nanoreactor Molecular Dynamics'
