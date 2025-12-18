@@ -1,9 +1,8 @@
 ---
 layout: talkpage
 categories: [contrib]
-talknumber: D2.06
-talktime: '11.03.2026, 14:45 – 15:15'
-posternumber: P24
+talknumber: D3.06
+talktime: '12.03.2026, 14:45 – 15:15'
 speaker: Prof. Dr. Jonny Proppe
 location: 'Technical University of Braunschweig · Braunschweig (DE)'
 title: 'Data-Driven Insights into Carbon Capture and Utilization'
