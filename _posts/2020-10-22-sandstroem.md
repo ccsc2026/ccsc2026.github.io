@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 27
+date: 2020-08-01
+categories: [example, contrib]
+affiliation: 'Technical University of Munich · Department of Physics · Munich (DE)'
+title: Dr. Hilda Sandström
+talktitle: "Towards Atmospheric Compound Identification Using Simulated Electron Ionization Mass Spectra"
+alt: Dr. Hilda Sandström
+talklink: sandstroem
+---
