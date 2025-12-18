@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [contrib]
-talknumber: D2.10
-talktime: '11.03.2026, 17:30 – 18:00'
+talknumber: D2.06
+talktime: '11.03.2026, 14:45 – 15:15'
 speaker: Dr. Hilda Sandström
 location: 'Technical University of Munich · Department of Physics · Munich (DE)'
 title: "Towards Atmospheric Compound Identification Using Simulated Electron Ionization Mass Spectra"
