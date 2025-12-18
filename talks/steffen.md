@@ -5,8 +5,8 @@ talknumber: D2.10
 talktime: '11.03.2026, 17:30 – 18:00'
 speaker: Dr. Julien Steffen
 location: 'Friedrich-Alexander-Universität Erlangen-Nürnberg · Department of Chemistry · Erlangen (DE)'
-title: "Vibrational Spectroscopy Predictions Using Machine Learning"
-authors: 'K. Chen, S. Luber'
+title: "Self-Consistent Fine-Tuning of Machine Learning Interatomic Potentials by Targeted Exploration of Configuration Space"
+authors: 'J. Steffen'
 abstract: [
 "Universal machine learning interatomic potentials (uMLIPs) have shown an astonishing ability of describing almost arbitrary chemical systems reasonably. 
 They are, however, not accurate enough for the calculation of quantities like reaction rate constants that require a very precise representation of the potential energy surface. 
