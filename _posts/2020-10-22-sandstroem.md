@@ -6,6 +6,7 @@ categories: [example, contrib]
 affiliation: 'Technical University of Munich · Department of Physics · Munich (DE)'
 title: Dr. Hilda Sandström
 talktitle: "Towards Atmospheric Compound Identification Using Simulated Electron Ionization Mass Spectra"
+img: sandstroem.png
 alt: Dr. Hilda Sandström
 talklink: sandstroem
 ---
