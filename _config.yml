@@ -41,12 +41,15 @@ footer:
 social:
   - title: BAdW
     url: logo-badw-white.png
-  - title: RSC
-    url: rsc.png
-  - title: Wiley
-    url: Wiley-Led-VCH-Logo-horiz.png
+  - title: FCI
+    url: Fonds_der_Chemischen_Industrie_Logo.svg.png
   - title: FACCTs
     url: FACCTs.png
+  - title: RSC
+    url: RSC.png
+  - title: Wiley
+    url: Wiley-Led-VCH-Logo-horiz.png
+
 
 # Postal address (add as many lines as necessary)
 address:
