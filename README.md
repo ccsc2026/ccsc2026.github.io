@@ -1,2 +1,2 @@
-# ccsc2024.github.io
-CCSC 2024 Website (https://ccsc2024.github.io/)
+# ccsc2026.github.io
+CCSC 2026 Website (https://ccsc2026.github.io/)
