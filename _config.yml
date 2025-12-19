@@ -41,8 +41,12 @@ footer:
 social:
   - title: BAdW
     url: logo-badw-white.png
-             
-# 'The conference is supported by <b>ERC 772834</b> (QML: Quantum Machine Learning: Chemical Reactions with Unprecedented Speed and Accuracy).'
+  - title: PCCP
+    url: PCCP Journal-Promo-82x25-whiteout.png
+  - title: Wiley
+    url: Wiley-Led-VCH-Logo-horiz.png
+  - title: DD
+    url: DD_logo.png
 
 # Postal address (add as many lines as necessary)
 address:
