@@ -41,12 +41,12 @@ footer:
 social:
   - title: BAdW
     url: logo-badw-white.png
-  - title: PCCP
-    url: PCCP Journal-Promo-82x25-whiteout.png
+  - title: RSC
+    url: rsc.png
   - title: Wiley
     url: Wiley-Led-VCH-Logo-horiz.png
-  - title: DD
-    url: DD_logo.png
+  - title: FACCTs
+    url: FACCTs.png
 
 # Postal address (add as many lines as necessary)
 address:
