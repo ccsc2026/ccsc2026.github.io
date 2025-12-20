@@ -4,7 +4,7 @@ modal-id: 30
 date: 2020-08-01
 categories: [contrib]
 affiliation: 'Chembricks Inc. · California (USA)'
-img: weinreich.png
+img: Weinreich, Jan.png
 alt: Dr. Jan Weinreich
 title: Dr. Jan Weinreich
 talklink: weinreich
