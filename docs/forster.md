@@ -11,5 +11,5 @@ abstract: [
 
 We present ChromoPredict, a Python based, digitizable and generalizable version of empirical Woodward-Fieser and Fieser-Kuhn rules to predict values of λmax from SMILES strings. Starting with a curated TD-DFT dataset of α,β-unsaturated carbonyl derivatives, we statistically validated classical increments to the rules and achieved mean absolute errors within ~8 nm, comparable to and more accurate than other machine learning and TD-DFT trained predictions. Furthermore, we statistically derived a new increment set for 3-, 4- and 6-substituted coumarins, systems for which ChromoPredict successfully reproduced the experimental trend for substitution, and the systematic error observed by TD-DFT was corrected.
 
-This link from empirical, historical heuristics in chemistry to contemporary cheminformatics advances a rapid, interpretable and inexpensive method of prediction of spectra and establishes an ability to assess and design more efficiently."]
+This link from empirical, historical heuristics in chemistry to contemporary cheminformatics advances a rapid, interpretable and inexpensive method of prediction of spectra and establishes an ability to assess and design more efficiently"]
 ---
