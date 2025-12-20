@@ -17,7 +17,7 @@ In the last part of my talk, I will outline how we aim to include the effect of 
 references: [
 ['C. Bannwarth; S. Ehlert; S. Grimme', 'J. Chem. Theory Comput. 2019', '15', '1652–1671'],
 ['I. Batatia; D. P. Kovács; G. N. C. Simm; C. Ortner; G. Csányi', 'NeurIPS 2022', '35', '11423–11436'],
-['e.g. S. Moradi; P. Dabbaghi; C. J. Stein', 'ChemPhysChem 2025', 'e202500463'],
+['e.g S. Moradi; P. Dabbaghi; C. J. Stein', 'ChemPhysChem 2025', 'e202500463'],
 ['e.g a) A. Beiersdorfer; L. Hetzel; C. Staake; F. Deißenbeck; C. J. Stein', 'chemRxiv 2025', 'DOI:10.26434/chemrxiv-2025-z8dhb',
 'b) L. Hetzel; C. J. Stein', 'chemRxiv 2025', 'DOI:10.26434/chemrxiv-2025-2jdsh']
 ]
