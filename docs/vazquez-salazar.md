@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P23
+posternumber: P26
 speaker: Dr. Luis Itza Vazquez-Salazar
 location: 'University of Heidelberg · Institute for Theoretical Physics · Heidelberg (DE)'
 title: "Graph diffusion models for back mapping in chemical compound space"
