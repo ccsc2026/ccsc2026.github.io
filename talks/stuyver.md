@@ -15,6 +15,6 @@ In this talk, I will highlight our recent efforts in this area,2c-d focusing on 
 Finally, I will briefly discuss ongoing work assessing the benefits of using these pre-trained hidden representations within Bayesian Optimization workflows."]
 references: [
 ['e.g a) N. Casetti et al.', 'Chem. Eur. J. 2023', '29', 'e202301957', 'b) Y. Guan et al.', 'Chem. Sci. 2021', '12', '2198-2208', 'c) T. Stuyver; C. W. Coley', 'J. Chem. Phys. 2022', '156', '084104'],
-['e.g a) R. Ramkrishnan et al.', 'Sci. Data 2014', '1', '1-7', 'b) P. C. St. John et al.', 'Sci. Data 2020', '7', '244', 'c) J. Alfonso-Ramos; R. Neeser; T. Stuyver', 'Digit. Discov. 2024', '3', '919-931', '(d)', 'G. Chen; T. Stuyver', 'Digit. Discov. 2025', '4', '3227-3237']
+['e.g a) R. Ramkrishnan et al.', 'Sci. Data 2014', '1', '1-7', 'b) P. C. St. John et al.', 'Sci. Data 2020', '7', '244', 'c) J. Alfonso-Ramos; R. Neeser; T. Stuyver', 'Digit. Discov. 2024', '3', '919-931', 'd) G. Chen; T. Stuyver', 'Digit. Discov. 2025', '4', '3227-3237']
 ]
 ---
