@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P24
+posternumber: P15
 speaker: Rubén Laplaza
 location: 'IIQ: Institute for Chemical Research · Seville (ES)'
 title: "Unraveling subnanocluster stability and fluxionality with MLIPs"
