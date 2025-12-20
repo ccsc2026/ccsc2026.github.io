@@ -4,6 +4,7 @@ categories: [contrib]
 talknumber: D3.07
 talktime: '12.03.2026, 15:15 – 15:45'
 speaker: Dr. Jan Weinreich
+img: 'Weinreich, Jan.png'
 location: 'Chembricks Inc. · California (USA)'
 title: "Beyond the Workhorse: Anchoring DFT with Sparse QMC for Discovery"
 authors: 'J. Weinreich'
