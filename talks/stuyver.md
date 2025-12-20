@@ -4,6 +4,7 @@ categories: [contrib]
 talknumber: D3.09
 talktime: '12.03.2026, 17:15 – 17:45'
 speaker: Prof. Thijs Stuyver
+img: 'Stuyver, Thijs.png'
 location: 'Paris Sciences et Lettres University · Paris (FR)'
 title: "Efficient Exploration of Chemical Reaction Space via Surrogate-Driven Chemical Representations"
 authors: 'T. Stuyver, G. Chen, J. E. Alfonso-Ramos'
