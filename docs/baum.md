@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P01
+posternumber: P02
 speaker: Dario Baum
 location: 'Vrije University · Department of Theoretical Chemistry · Amsterdam (NL)'
 authors: 'D. Baum, A. Förster, L. Visscher'
