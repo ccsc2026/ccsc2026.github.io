@@ -4,6 +4,7 @@ categories: [contrib]
 talknumber: D2.08
 talktime: '11.03.2026, 16:30 – 17:00'
 speaker: Prof. Dr. Cristopher J. Stein
+img: 'Stein, Christopher.png'
 location: 'Technical University of Munich · Department of Chemistry · Munich (DE)'
 title: "Atomistic simulations of electrolyte solutions at metallic interfaces"
 authors: 'C. J. Stein'
