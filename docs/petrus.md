@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P26
+posternumber: P20
 speaker: Dr. Enric Petrus
 location: 'Swiss Federal Institute of Aquatic Science and Tecnology · Dübendorf (CH)'
 title: "Automated Reaction Exploration of the Redox Chemical Space in Water Treatment"
