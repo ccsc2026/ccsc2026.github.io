@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P30
+posternumber: P08
 speaker: Lisa Hetzel
 location: 'Technical University of Munich · School of Natural Sciences · Munich (DE)'
 title: "Benchmarking small and efficient machine-learning interatomic potentials for aqueous electrolyte solutions"
