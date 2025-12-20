@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P34
+posternumber: P03
 speaker: Nitik Bhatia
 location: 'Technical University of Munich · Department of Physics · Munich (DE)'
 title: "MACE4IRmol A foundation model for molecular infrared spectroscopy"
