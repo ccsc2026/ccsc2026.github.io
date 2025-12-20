@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P27
+posternumber: P17
 speaker: Dr. Lucía Morán
 location: 'University of Oslo · Hylleraas Centre for Quantum Molecular Sciences · Oslo (NO)'
 title: "High-Throughput Computational Screening of Bifunctional Catalysts for CO₂ Hydrogenation"
