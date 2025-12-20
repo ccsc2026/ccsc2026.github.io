@@ -4,6 +4,7 @@ categories: [contrib]
 talknumber: D2.10
 talktime: '11.03.2026, 17:30 – 18:00'
 speaker: Dr. Julien Steffen
+img: 'Steffen, Julien.png'
 location: 'Friedrich-Alexander-Universität Erlangen-Nürnberg · Department of Chemistry · Erlangen (DE)'
 title: "Self-Consistent Fine-Tuning of Machine Learning Interatomic Potentials by Targeted Exploration of Configuration Space"
 authors: 'J. Steffen'
