@@ -22,8 +22,8 @@ on two examples: proton exchange reactions in the gas phase and hydrogen diffusi
 nuclear quantum effects. Further, an outlook is given on how to generalize the method to arbitrary chemical systems and reaction mechanisms.
 "]
 references: [
-[J. Steffen, A. Alibakhshi', 'J. Chem. Phys.', '2024', '161', '184116'],
-[J. Steffen', 'J. Phys. Chem. C', '2025', '129', '13513'],
-[J. Steffen', 'J. Chem. Theory Comput.', '2023', '19', '5334'],
+['J. Steffen; A. Alibakhshi', 'J. Chem. Phys. 2024', '161', '184116'],
+['J. Steffen', 'J. Phys. Chem. C 2025', '129', '13513'],
+['J. Steffen', 'J. Chem. Theory Comput. 2023', '19', '5334']
 ]
 ---
