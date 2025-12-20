@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P32
+posternumber: P18
 speaker: Simon Müller
 location: 'Bundesanstalt für Materialforschung und -prüfung · Berlin (DE)'
 title: "A distribution-based approach to evaluating material generative models: The Transport Novelty Distance"
