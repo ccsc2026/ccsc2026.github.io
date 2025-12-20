@@ -3,7 +3,8 @@ layout: talkpage
 categories: [contrib]
 talknumber: D2.09
 talktime: '11.03.2026, 17:00 – 17:30'
-speaker: Dr. Iryna Knysh 
+speaker: Dr. Iryna Knysh
+img: 'Knysh, Iryna.png'
 location: 'University of Luxembourg · Department of Physics and Materials Science · Luxembourg (LU)'
 title: 'Transferable machine learning force fields: from lead halide perovskite interfaces to bulk materials'
 authors: 'I. Knysh, A. Charkin-Gorbulin, C. Quarti, D. Beljonne, I. Poltavsky, A. Tkatchenko'
