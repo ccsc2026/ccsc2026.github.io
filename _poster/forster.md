@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P05
+posternumber: P06
 speaker: Connor Forster
 location: 'Friedrich-Alexander-University Erlangen · Department of Chemistry and Pharmacy · Germany (DE)'
 title: 'From Handbooks to High-Throughput: Rule-Based Prediction of Electronic Absorption Maxima from SMILES with ChromoPredict'

@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P45
+posternumber: P25
 speaker: Aakash Ashok Naik
 location: 'Bundesanstalt für Materialforschung und -prüfung · Department of Digital Materials Chemistry · Berlin (DE)'
 title: "Do bonding descriptors help in machine learning material properties?"

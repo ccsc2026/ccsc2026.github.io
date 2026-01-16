@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P08
+posternumber: P10
 speaker: Tobias Henkes
 location: 'University of Luxembourg · Department of Physics and Materials Science · Luxembourg (LU)'
 title: "aims-PAX: The Parallel Active Exploration Tool for Peace of Mind in Constructing Machine Learning Force Fields"

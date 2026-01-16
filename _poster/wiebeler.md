@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P41
+posternumber: P44
 speaker: Dr. Christian Wiebeler
 location: 'University of Augsburg · Institute of Physics · Augsburg (DE)'
 title: "Molecular Dynamics and Computational Spectroscopy for Systems in Soft Condensed Phase"

@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P58
+posternumber: P38
 speaker: Deqi Tang
 location: 'University of Zurich · Department of Chemistry · Zurich (CH)'
 title: "Charge and Spin Aware Equivariant Graph Neural Network with Spin-polarizedCharge Equilibrium Method"

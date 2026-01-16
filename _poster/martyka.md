@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P18
+posternumber: P21
 speaker: Mikołaj Martyka
 location: 'University of Warsaw · Department of Chemistry · Warsaw (PL)'
 title: "Machine Learning Methods for Electronic Excited States: From Foundational Models to Gradient-Free Nonadiabatic Dynamics"

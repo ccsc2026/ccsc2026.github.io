@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P11
+posternumber: P13
 speaker: Dr. Inigo Iribarren
 location: 'Technical University of Munich · Department of Electrical Engineering · Munich (DE)'
 title: "Computational Workflow to Unravel the Structural Dynamics of Supramolecular Metallacages in Solution"

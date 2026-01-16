@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P42
+posternumber: P39
 speaker: Katharina Ueltzen
 location: 'Federal Institute for Materials Research and Testing · Berlin (DE)'
 title: "Can simple exchange heuristics guide us in the machine learning of magnetic properties of solids?"

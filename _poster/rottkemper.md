@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P54
+posternumber: P31
 speaker: Gabriel Rottkemper
 location: 'LMU Munich · Department of Chemistry · Munich (DE)'
 title: "Accelerating Ab Initio Molecular Dynamics Liquid Water Simulations with Message Passing Neural Networks"

@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P22
+posternumber: P26
 speaker: Tatiana Nikolaeva
 location: 'Technical University of Munich · Department of Chemistry · Munich (DE)'
 title: "Improving ion-water electrostatics in tight-binding methods for simple electrolyte solutions"

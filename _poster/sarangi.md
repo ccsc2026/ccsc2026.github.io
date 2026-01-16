@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P27
+posternumber: P32
 speaker: Arijeet Sarangi
 location: 'Harish-Chandra Research Institute · Department of Physics · Prayagraj (IN)'
 title: 'Effect of Temperature and Electric Field on Interfacial Charge Transfer and Band Edge Alignment in Mxene-Halide'

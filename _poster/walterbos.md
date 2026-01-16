@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P47
+posternumber: P42
 speaker: Luc Walterbos
 location: 'Bundesanstalt für Materialforschung und -prüfung · Department of Digital Material Chemistry · Berlin (DE)'
 title: "(U) Mapping the chemical landscape of Halide Double Perovskites"

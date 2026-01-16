@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P32
+posternumber: P37
 speaker: Deqi Tang
 location: 'University of Zurich · Department of Chemistry · Zurich (CH)'
 title: "Bridging Dynamics and Design in Molecular Water Oxidation: Enhanced sampling and Machine-Learned Collective Variables"

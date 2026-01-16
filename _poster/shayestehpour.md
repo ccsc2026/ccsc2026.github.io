@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P51
+posternumber: P35
 speaker: Dr. Omid Shayestehpour
 location: 'Paderborn University · Paderborn (DE)'
 title: "Prokyon – An open-source library for on-the-fly machine learning of interatomic potentials"

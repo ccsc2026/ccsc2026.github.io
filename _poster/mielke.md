@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P49
+posternumber: P22
 speaker: Alexander Mielke
 location: 'University of Regensburg · Department of Chemistry ·  Regensburg (DE)'
 title: "RL-guided steering of molecular dynamics via target molecular states"

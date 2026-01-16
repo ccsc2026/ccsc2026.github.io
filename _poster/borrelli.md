@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P44
+posternumber: P04
 speaker: William Borrelli
 location: 'University of California · Department of Chemistry & Biochemistry · Los Angeles (USA)'
 title: "Theoretical Prediction of the 2-Dimensional Electronic Spectrum for Different Models of the Hydrated Electron"

@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P36
+posternumber: P43
 speaker: Sophia Wesely
 location: 'Lepzig University · Wilhelm-Ostwald-Institute for Physical and Theoretical Chemistry · Leipzig (DE)'
 title: "Exploring Excited-State Energy Landscapes Across Chemical Compound Space with Machine Learning: The Example of Green Fluorescent Protein Chromophores"

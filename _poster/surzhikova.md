@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P31
+posternumber: P36
 speaker: Elizaveta Surzhikova
 location: 'Technical University of Braunschweig · Germany (DE)'
 title: 'Generative Design of Amines for Sustainable CO2 Capture'
