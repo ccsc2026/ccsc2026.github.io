@@ -2,7 +2,7 @@
 layout: posterpage
 categories: [poster]
 posternumber: P53
-speaker: Alister Goodfellow
+speaker: Dr. Alister Goodfellow
 location: 'University of Leeds · School of Chemistry · Leeds (GB)'
 title: "Robust Molecular Graphs for Rapid Transition State Analysis"
 authors: 'A. Goodfellow, B. N. Nguyen'
