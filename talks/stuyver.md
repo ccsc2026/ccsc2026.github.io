@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [contrib]
-talknumber: D3.09
-talktime: '12.03.2026, 17:15 – 17:45'
+talknumber: D3.10
+talktime: '12.03.2026, 17:15 – 17:35'
 speaker: Prof. Thijs Stuyver
 img: 'Stuyver, Thijs.png'
 location: 'Paris Sciences et Lettres University · Paris (FR)'
