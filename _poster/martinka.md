@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P20
+posternumber: P21
 speaker: Jakub Martinka
 location: 'J. Heyrovsky Institute of Physical Chemistry · Department of Theoretical Chemistry · Prague (CZ)'
 title: "Flexible Framework for Surface Hopping: From Hybrid Schemes for Machine Learning to Benchmarkable Nonadiabatic Dynamics"

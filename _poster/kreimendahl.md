@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P18
+posternumber: P19
 speaker: Lasse Kreimendahl
 location: 'University of Würzburg · Würzburg (DE)'
 title: "Scalable Data-Driven Discovery of Imine Photoswitches Through Property-Driven Multi-Objective Optimization"

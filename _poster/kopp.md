@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P17
+posternumber: P18
 speaker: Dr. Wassja A. Kopp
 location: 'Heinrich-Heine University Düsseldorf · Department of Physical Chemistry · Germany (DE)'
 title: 'Three-Dimensional and Immersive Visualisation of Complex Chemical Reaction Networks'

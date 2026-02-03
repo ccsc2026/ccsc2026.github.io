@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P30
+posternumber: P32
 speaker: Pragati Rohali
 location: 'University of Regensburg · Department of Chemistry ·  Regensburg (DE)'
 title: "Non-adiabatic dynamics of molecular nanomotor using neural network"

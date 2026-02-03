@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P51
+posternumber: P06
 speaker: Prof. Dr. Mauricio Domingues Coutinho Neto
 location: 'Federal University of the ABC Region · Center for Natual and Human Sciences (CCNH) · Santo Andre (BR)'
 title: 'Exploring a 436-Million-Molecule Space: Alchemical Tuning of Cu(II) Porphyrin Derivatives'

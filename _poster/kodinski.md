@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P16
+posternumber: P17
 speaker: Prof. Aleksandar Kodinski
 location: 'Technical University Graz · Department of Physical and Theoretical Chemistry · Graz (AT)'
 title: 'Knowledge-Driven Discovery of New Covalent Organic Frameworks'

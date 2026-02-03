@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P34
+posternumber: P36
 speaker: Alexander Scrimgeour
 location: 'University of Regensburg · Department of Chemistry ·  Regensburg (DE)'
 title: "RL-guided steering of molecular dynamics via target molecular states"

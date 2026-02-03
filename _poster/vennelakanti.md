@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P49
+posternumber: P43
 speaker: Dr. Vyshnavi Vennelakanti
 location: 'Max Planck Institute for Chemical Energy Conversion · Mülheim (DE)'
 title: 'Computational investigation of catalytic mechanisms of vanadium nitrogenase'

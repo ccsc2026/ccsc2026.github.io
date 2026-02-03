@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P15
+posternumber: P16
 speaker: Dr. Clara Kirkvold
 location: 'University of Birmingham · Department of Chemistry · United Kingdom (UK)'
 title: 'Exploring the role of topology for machine learning based property prediction of nanoporous materials'

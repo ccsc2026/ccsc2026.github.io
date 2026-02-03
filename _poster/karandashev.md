@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P14
+posternumber: P15
 speaker: Dr. Konstantin Karandashev
 location: 'Chembricks Inc. Menlo Park · California (USA)'
 title: "Kernel Ridge Regression with conformer ensemble representations made easy with Structured Orthogonal Random Features"

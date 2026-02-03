@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P48
+posternumber: P30
 speaker: Sana Qureshi
 location: 'University Kassel · Department of Mathematics und Natural Sciences · Kassel (DE)'
 title: 'Alchemical Derivatives for Data-Efficient Kernel Models'
