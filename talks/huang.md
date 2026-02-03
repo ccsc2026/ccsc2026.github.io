@@ -1,6 +1,6 @@
 ---
 layout: talkpage
-categories: [comms]
+categories: [contrib]
 talknumber: D3.12
 talktime: '12.03.2026, 17:55 – 18:15'
 speaker: Bing Huang
