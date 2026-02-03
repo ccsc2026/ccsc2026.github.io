@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [contrib]
-talknumber: D2.09
-talktime: '11.03.2026, 17:00 – 17:30'
+talknumber: D2.10
+talktime: '11.03.2026, 17:00 – 17:20'
 speaker: Dr. Iryna Knysh
 img: 'Knysh, Iryna.png'
 location: 'University of Luxembourg · Department of Physics and Materials Science · Luxembourg (LU)'
