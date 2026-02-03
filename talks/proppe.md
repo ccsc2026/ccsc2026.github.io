@@ -2,7 +2,7 @@
 layout: talkpage
 categories: [contrib]
 talknumber: D3.06
-talktime: '12.03.2026, 14:45 – 15:15'
+talktime: '12.03.2026, 14:45 – 15:05'
 speaker: Prof. Dr. Jonny Proppe
 img: 'Proppe, Jonny.png'
 location: 'Technical University of Braunschweig · Braunschweig (DE)'
