@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [contrib]
-talknumber: D3.10
-talktime: '12.03.2026, 17:45 – 18:15'
+talknumber: D3.11
+talktime: '12.03.2026, 17:35 – 17:55'
 speaker: Prof. Jan Meisner
 img: 'Meisner, Jan.png'
 location: 'Heinrich-Heine University Düsseldorf · Düsseldorf (DE)'
