@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [digidemo]
-posternumber: DD04
+posternumber: DD02
 speaker: 'Christoph Plett and Anneke Dittmer'
 location: 'FACCTs GmbH · Köln (DE)'
 title: "ORCA6: Next-Generation Software for Real-World Application"
