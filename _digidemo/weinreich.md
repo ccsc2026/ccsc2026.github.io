@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [digidemo]
-posternumber: DD03
+posternumber: DD04
 speaker: Dr. Jan Weinreich
 img: 'Weinreich, Jan.png'
 location: 'Chembricks Inc. · California (USA)'
