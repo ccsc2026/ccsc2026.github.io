@@ -2,7 +2,7 @@
 layout: talkpage
 categories: [contrib]
 talknumber: D3.07
-talktime: '12.03.2026, 15:15 – 15:45'
+talktime: '12.03.2026, 15:05 – 15:25'
 speaker: Dr. Štěpán Sršeň
 location: 'University of Chemistry and Technology · Department of Mathematics, Informatics and Cybernetics · Prague (PL)'
 title: 'Efficient Prediction of Molecular Properties in a Low-Data Regime'
