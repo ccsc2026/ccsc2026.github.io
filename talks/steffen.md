@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [contrib]
-talknumber: D2.10
-talktime: '11.03.2026, 17:30 – 18:00'
+talknumber: D2.11
+talktime: '11.03.2026, 17:20 – 17:40'
 speaker: Dr. Julien Steffen
 img: 'Steffen, Julien.png'
 location: 'Friedrich-Alexander-Universität Erlangen-Nürnberg · Department of Chemistry · Erlangen (DE)'
