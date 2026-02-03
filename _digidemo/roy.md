@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [digidemo]
-posternumber: DD02
+posternumber: DD03
 speaker: Aritra Roy
 location: 'South Bank University of London · Department of Chemical Process and Energy Engineering · London (UK)'
 title: "ComProScanner: Multi-agent based composition property data extraction framework"
