@@ -1,7 +1,7 @@
 ---
 layout: talkpage
 categories: [contrib]
-talknumber: D2.08
+talknumber: D2.09
 talktime: '11.03.2026, 16:30 – 17:00'
 speaker: Prof. Dr. Cristopher J. Stein
 img: 'Stein, Christopher.png'
