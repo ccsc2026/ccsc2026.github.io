@@ -2,7 +2,7 @@
 layout: talkpage
 categories: [contrib]
 talknumber: D2.09
-talktime: '11.03.2026, 16:30 – 17:00'
+talktime: '11.03.2026, 16:30 – 16:50'
 speaker: Prof. Dr. Cristopher J. Stein
 img: 'Stein, Christopher.png'
 location: 'Technical University of Munich · Department of Chemistry · Munich (DE)'
