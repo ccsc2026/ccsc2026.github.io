@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P49
+posternumber: P17
 speaker: Weilong Chen
 location: 'Technical University of Munich · Munich (DE)'
 title: "Efficient Learning of Coarse-Grained Potentials and Generative Sampling"
