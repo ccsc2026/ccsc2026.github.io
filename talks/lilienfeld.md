@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D05
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D1.01
+talktime: '10.03.2026, 17:15 – 18:00'
 speaker: Prof. Dr. Anatole von Lilienfeld
 img: 'von Lilienfeld, Anatole.png'
 location: 'University of Toronto ·  Department of Chemistry/Materials/Physics · Toronto (CA)'
