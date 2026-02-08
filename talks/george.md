@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D16
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D3.04
+talktime: '12.03.2026, 11:45 – 12:30'
 speaker: Prof. Dr. Janine George
 img: 'George, Janine.png'
 location: 'University of Jena · Jena (DE)'
