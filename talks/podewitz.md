@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D09
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D3.05
+talktime: '12.03.2026, 14:00 – 15:45'
 speaker: Prof. Dr. Maren Podewitz
 img: 'Podewitz, Maren.png'
 location: 'Technical University of Wien · Institute of Materials Chemistry · Wien (AT)'
