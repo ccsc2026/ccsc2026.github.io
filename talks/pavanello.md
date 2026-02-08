@@ -2,7 +2,7 @@
 layout: talkpage
 categories: [keynote]
 talknumber: D12
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talktime: '11.03.2026, 11:00 – 11:45'
 speaker: Prof. Michele Pavanello
 img: 'Pavanello, Michele.png'
 location: 'Rutgers University-Newark · Department of Physics · New Jersey (USA)'
