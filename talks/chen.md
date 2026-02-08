@@ -2,7 +2,7 @@
 layout: talkpage
 categories: [contrib]
 talknumber: D2.07
-talktime: '11.03.2026, 15:15 – 15:45'
+talktime: '11.03.2026, 15:05 – 15:25'
 speaker: Dr. Ke Chen
 img: 'Chen, Ke.png'
 location: 'University of Zurich · Department of Chemistry · Zurich (CH)'
