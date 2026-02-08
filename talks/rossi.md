@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D15
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D3.03
+talktime: '12.03.2026, 11:00 – 11:45'
 speaker: Prof. Dr. Mariana Rossi
 img: 'Rossi, Mariana.png'
 location: 'Max Planck Institute for the Structure and Dynamics of Matter · Germany (DE)'
