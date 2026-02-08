@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D03
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D4.01
+talktime: '13.03.2026, 09:00 – 09:45'
 speaker: Prof. Johannes Margraf
 img: 'Margraf, Johannes.png'
 location: 'University of Bayreuth · Bayreuth (DE)'
