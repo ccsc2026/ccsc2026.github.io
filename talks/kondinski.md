@@ -3,7 +3,7 @@ layout: talkpage
 categories: [contrib]
 talknumber: D2.10
 talktime: '11.03.2026, 16:50 – 17:10'
-speaker: Prof. Aleksandar Kodinski
+speaker: Prof. Aleksandar Kondinski
 img: 
 location: 'Technical University Graz · Department of Physical and Theoretical Chemistry · Graz (AT)'
 title: 'Knowledge-Driven Discovery of New Covalent Organic Frameworks'
