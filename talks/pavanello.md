@@ -1,7 +1,7 @@
 ---
 layout: talkpage
 categories: [keynote]
-talknumber: D12
+talknumber: D2.03
 talktime: '11.03.2026, 11:00 – 11:45'
 speaker: Prof. Michele Pavanello
 img: 'Pavanello, Michele.png'
