@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D08
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D2.01
+talktime: '11.03.2026, 09:00 – 09:45'
 speaker: Prof. Dr. Tristan Bereau
 img: 'Bereau, Tristan.png'
 location: 'Heidelberg University · Institute for Theoretical Physics · Heidelberg (DE)'
