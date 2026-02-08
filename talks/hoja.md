@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D10
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D4.02
+talktime: '13.03.2026, 09:45 – 10:30'
 speaker: Dr. Johannes Hoja
 img: 'Hoja, Johannes.png'
 location: 'University of Graz · Department of Chemistry · Graz (AT)'
