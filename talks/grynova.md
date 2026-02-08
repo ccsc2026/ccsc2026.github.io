@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D02
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D4.03
+talktime: '13.03.2026, 11:00 – 11:45'
 speaker: "Prof. Ganna Gryn'ova"
 img: "Gryn'ova, Anya.png"
 location: 'University of Birmingham · Molecular Sciences Building, Edgbaston · Birmingham (UK)'
