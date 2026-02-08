@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D13
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D3.01
+talktime: '12.03.2026, 09:00 – 09:45'
 speaker: Prof. Rocío Mercado
 img: 'Mercado, Rocio.png'
 location: 'Chalmers University of Technology · Department of Computer Science and Engineering · Gothenburg (SE)'
