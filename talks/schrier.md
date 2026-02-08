@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D07
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D4.04
+talktime: '13.03.2026, 11:45 – 12:30'
 speaker: Prof. Dr. Joshua Schrier
 img: 'Schrier, Joshua.png'
 location: 'Fordham University · Department of Chemistry & Biochemistry · New York (USA)'
