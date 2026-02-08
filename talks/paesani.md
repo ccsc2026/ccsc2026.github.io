@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D17
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D2.02
+talktime: '11.03.2026, 09:45 – 10:30'
 speaker: Prof. Francesco Paesani
 img: 'Paesani, Francesco.png'
 location: 'University of California · Department of Chemistry · California (USA)'
