@@ -1,7 +1,7 @@
 ---
 layout: posterpage
 categories: [poster]
-posternumber: P50
+posternumber: P49
 speaker: Jonas Weiser
 location: 'University of Augsburg · Department of Theoretical Physics · Augsburg (DE)'
 title: "Towards automated ensemble-averaged kinetics of reverse intersystem crossing in flexible TADF emitters"
