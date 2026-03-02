@@ -13,10 +13,4 @@ NHR|ASC provides tailored HPC services—ranging from compute time access on sta
 This contribution introduces the mission and scope of NHR|ASC, outlines the available project types, and highlights how researchers at German universities—from first-time HPC users to experienced groups—can benefit from the services provided through the NHR alliance.
 More information is available at: <a href='https://www.nhr-verein.de/asc'>https://www.nhr-verein.de/asc</a>"
 ]
-abstractfigure: [
-{
-  'figure': 'map_nhr.png', 
-  'caption': 'Locations: NHR Atomistic Simulation Center'
-  }
-]
 ---
