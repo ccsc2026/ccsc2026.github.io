@@ -8,4 +8,7 @@ img: 'Deringer, Volker.png'
 location: 'University of Oxford · Theoretical and Computational Inorganic Chemistry · Oxford (GB) '
 title: 'Data-efficient approaches to fitting machine-learned interatomic potentials'
 authors: 'V. Deringer'
+abstract: [
+" "
+]
 ---
