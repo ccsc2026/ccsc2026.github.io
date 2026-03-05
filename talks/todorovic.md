@@ -1,8 +1,8 @@
 ---
 layout: talkpage
 categories: [comms]
-talknumber: D18
-talktime: '10.-13.03.2026, 15:00 – 15:30'
+talknumber: D3.E2
+talktime: '12.03.2026, 16:30 – 18:20'
 speaker: Prof. Dr. Milica Todorovic
 img: 'Todorovic, Milica.png'
 location: 'University of Turku · Department of Mechanical and Materials Engineering · Turku (FI) '
