@@ -8,4 +8,7 @@ img: 'Deringer, Volker.png'
 location: 'University of Oxford · Theoretical and Computational Inorganic Chemistry · Oxford (GB) '
 title: 'Machine-learned interatomic potentials for materials chemistry'
 authors: 'V. Deringer'
+abstract: [
+" "
+]
 ---
