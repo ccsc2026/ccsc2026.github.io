@@ -16,7 +16,7 @@ In this talk, we highlight how ORCA can be used together with OPI to build effic
 "
 ]
 references: [
-['D. S. Levine, et al..', 'arXiv 2025', 'https://arxiv.org/abs/2505.08762'],
+['D. S. Levine, et al.', 'arXiv 2025', 'https://arxiv.org/abs/2505.08762'],
 ['T. Tetenberg, H. Neugebauer, C. Plett, N. Santhosh, M. Bursch, C. Riplinger', 'accepted for publication in JCTC']
 ]
 link: 'poster/plett/'
