@@ -1,5 +1,5 @@
 ---
-layout: talkpage
+layout: talkpage_two_speaker
 categories: [comms]
 talknumber: D2.E2
 talktime: '11.03.2026, 16:30 – 18:20'
