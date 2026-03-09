@@ -1,0 +1,13 @@
+---
+layout: posterpage
+categories: [poster]
+posternumber: P44
+speaker: Sean Larmore
+location: 'Northeastern University · Chemistry and Chemical Biology · Boston (US)'
+title: 'Machine-learning predicted nonadiabatic couplings enable reactive photochemical dynamics'
+authors: 'L. Gomes, M. Wang, C. Wei Tan, B. Kozinsky,  S. Lopez'
+abstract: [
+"
+Photochemical reactions enable transformations that are challenging or inaccessible under thermal conditions, offering unique opportunities for bond formation, cleavage, and the generation of reactive intermediates. Explaining the light-promoted molecular mechanism requires an explicit treatment of nuclear motion and electronic state interactions provided by nonadiabatic molecular dynamics (NAMD). However, accurate NAMD simulations are computationally intensive, requiring quantum mechanical calculations to obtain energies, forces, and nonadiabatic couplings (NACs) for multiple excited states at each time step. Machine learning (ML) techniques have been used to accurately predict the energies and forces of molecular systems without the need for quantum mechanical calculations, but prediction of nonadiabatic couplings (NACs) has remained a challenge due to its vectoral nature, singularity near conical intersections, and arbitrary phase. Here, we present NequIP-NAC, a machine-learning framework that accurately predicts NAC vectors alongside energies and forces for multiple electronic states. By extending the Neural Equivariant Interatomic Potential (NequIP) framework to excited states, our approach enables accurate and efficient simulations of photochemical reactions involving bond breaking, bond formation, and stereochemical rearrangements in the gas- or solvent-phase. This framework overcomes a major bottleneck in ML-accelerated NAMD through direct prediction of NACs, thereby eliminating the need for approximations, achieving up to four orders-of-magnitude acceleration while maintaining quantitative accuracy, with NACs predicted to a mean absolute error of ~0.05 – 0.10 eV [LA2.1]Å⁻¹. We tested our NequIP models by performing ML-NAMD on the photodenitrogenation of 2,3-Diazabicyclo[2.2.1]hept-2-ene (DBH) in the gas-phase and photodecarbonylation of cyclopropenone (CYP) in the aqueous solvent phase and comparing with QM-NAMD. Quantum yields for QM- and ML-NAMD match within ~1% for both reactions with the same stepwise mechanism; one bond breaks on the excited state followed by the second on the ground state. This method enables predictive modeling of complex photochemical dynamics and the exploration of previously inaccessible reaction pathways.
+"]
+---
